@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "PhD student at Mines Paris - Engineer from Centrale Lyon with Msc from Imperial College London"
   location         : "Paris, France"
-  employer         : # "IFP énergies nouvelles"
+  employer         : "IFP énergies nouvelles"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=yXz3FG8AAAAJ"
-  email            : # "{firstname.lastname}@ens-paris-saclay.fr"
+  googlescholar    : "https://scholar.google.com/citations?user=WUwMZtIAAAAJ&hl=fr"
+  email            : "daniel.mimouni@ifpen.fr"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "sylvain-combettes"
-  orcid            : "https://orcid.org/0000-0003-3529-6350"
+  linkedin         : "daniel-mimouni-746987163"
+  orcid            : #"https://orcid.org/0000-0003-3529-6350"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
