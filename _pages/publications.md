@@ -43,13 +43,13 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
 <table>
   <tr>
     <td rowspan="3" style="width: 50px;"><b>NC1</b></td>
-    <td>A new approach for computing Wasserstein Barycenter via operator splitting in the classical balanced setting.</td>
+    <td>A new approach for computing Wasserstein Barycenter via operator splitting in the classical balanced setting, Nov 2023.</td>
   </tr>
   <tr>
     <td>Presentation during the <a href="https://smf.emath.fr/evenements-smf/pgmo-days-2023">PGMO days</a> </td>
   </tr>
   <tr>
-    <td>Links: <a href="https://gretsi.fr/data/colloque/pdf/2022_combettes826.pdf">paper PDF</a> / <a href="https://gretsi.fr/colloque2022/">GRETSI 2022</a>.</td>
+    <td>Links: <a href="/files/PGMOdays.pdf"> slides </a> /  <a href="daniel.mimouni@ifpen.fr">Presentation (video) on demand</a>.</td>
   </tr>
 </table>
 
