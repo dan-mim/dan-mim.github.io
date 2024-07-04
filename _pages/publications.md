@@ -5,28 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <a href="https://scholar.google.com/citations?user=yXz3FG8AAAAJ">my Google Scholar profile</a>.
+<!-- You can also find my articles on <a href="https://scholar.google.com/citations?user=WUwMZtIAAAAJ&hl=fr">my Google Scholar profile</a>. -->
 
 <details>
-<summary>Click here for an overview of my research.</summary>
+<summary>Click here for an overview of my Phd objectives achived so far.</summary>
 <hr style="height: 3px; background-color: black;">
-<!-- My research career took place during my PhD at Ecole Normale Supérieure Paris-Saclay (ENS P-S), from October 2020 to January 2024 (3 years and 4 months). From February to August 2024 (6 months), I was a postdoctoral researcher at ENS P-S, but my time was dedicated to help build the BrevetAI from SaclAI-School, a pedagogical platform for AI acculturation.<br><br> -->
 
-My PhD research was at the intersection of Mathematics and Machine Learning for time series analysis. More precisely, my publications are on symbolic representations and distances between univariate and multivariate time series. My PhD manuscript <b>[T1]</b> sums up my research and contains 2 literature reviews, 2 major contributions (ASTRIDE <b>[IC3]</b> and $d_{symb}$ <b>[IC1]</b>), 1 interactive tool on Streamlit (the $d_{symb}$ playground <b>[IC2]</b>) and 1 open-access data set (the arm-CODA data set <b>[J1]</b>). The abstract of my manuscript is as follows.
-<br><br>
+Managing uncertainties in multistage stochastic optimization poses a substantial challenge, necessitating a  a complex trade-off between, on the one hand, the representation of the uncertainties (i.e. the number of scenarios) and, on the other hand, the computational tractability. Scenario reduction methods, pioneered in 2003 by Dupavcova et al., offer a promising outlooks for achieving a satisfactory trade-off. However, the choice of distance metric for reducing scenario trees significantly influences solution quality. While clustering techniques have been prevalent, recent research has turned to Wasserstein-based methods to minimize transport distance between probabilty measures. 
 
-<i>The objectives of this thesis are to define novel symbolic representations and distance measures that are suited for time series that can be multivariate and non-stationary.
-In addition, they should preserve the time information, be interpretable, and fast to compute.
-We review symbolic representations of time series (that transform a real-valued series into a shorter discrete-valued series), as well as distance measures on time series, strings, and symbolic sequences (that result from a symbolization process).</i><br><br>
+My work presents a comprehensive investigation of the use of Wasserstein distance for scenario tree reduction in the context of multistage stochastic optimization. The Wasserstein barycenter (WB) serves as a tool for summarizing sets of probabilities, it appears in a number of disciplines, including applied probability, clustering and image processing. Numerically efficient methods to computing the WB rely on entropic regularization functions, resulting in approximate solutions due to limitations in solver capabilities. In contrast, this research introduces an exact approach based on the Douglas-Rachford splitting method directly applied to the WB linear optimization problem. The proposed solving algorithm achieves a trade-off between the numerical efficiency of regularization-based methods and the precision of exact LP solvers.
 
-<i>We propose two contributions: ASTRIDE for a data set of univariate time series, and $d_{symb}$  for a data set of multivariate time series.
-We also developed the $d_{symb}$ playground, an online interactive tool that allows users to apply $d_{symb}$ to their uploaded data.
-ASTRIDE and $d_{symb}$ are data-driven as they use change-point detection for the segmentation step, then either quantiles or a $K$-means clustering algorithm for the quantization step.
-Finally, they apply the general edit distance with custom costs between the resulting symbolic sequences.</i><br><br>
+ Kovacevic and Pichler develop a reduction algorithm based on nested Wasserstein distance. This algorithm consists of computing a significant amount of Wasserstein barycenters. The second contribution of this work is to implement dedicated WB computation algorithms, including the Iterative Bregmann Projection method (IBP), Sinkhorn distance, and the newly introduced Method of Averaged Marginals (MAM) in the algorithm proposed in their work, Kovacevic and Pichler, to accelerate its performances.
 
-<i>We show the performance of ASTRIDE compared to 4 other symbolic representations on reconstruction and, when applicable, on classification tasks.
-For $d_{symb}$, experiments show how interpretable the symbolization is.
-Moreover, compared to 9 elastic distances on a clustering task, $d_{symb}$ achieves a competitive performance while being several orders of magnitude faster.</i>
+By proposing efficient algorithms for computing Wasserstein barycenters and reducing scenario trees, we address critical challenges in managing uncertainties in multistage stochastic optimization. Looking ahead, future research directions include further exploration of the interplay between optimization algorithms and stochastic processes to refine scenario tree reduction methodologies and enhance the applicability of Wasserstein-based methods in complex optimization problems. 
+
 <hr style="height: 3px; background-color: black;">
 </details>
 
@@ -46,20 +38,20 @@ Moreover, compared to 9 elastic distances on a clustering task, $d_{symb}$ achie
 </table>
 
 
-<!-- ## National conference papers
+## Conference contribution
 
 <table>
   <tr>
     <td rowspan="3" style="width: 50px;"><b>NC1</b></td>
-    <td>S. W. Combettes, C. Truong, and L. Oudre. "SAX-DD: une nouvelle représentation symbolique pour séries temporelles" In <i>Proceedings of the Groupe de Recherche et d’Etudes En Traitement Du Signal et Des Images (GRETSI)</i>, Nancy, France, 2022.</td>
+    <td>A new approach for computing Wasserstein Barycenter via operator splitting in the classical balanced setting.</td>
   </tr>
   <tr>
-    <td>Method name: SAX-DD.</td>
+    <td>Presentation during the <a href="https://smf.emath.fr/evenements-smf/pgmo-days-2023">PGMO days</a> </td>
   </tr>
   <tr>
     <td>Links: <a href="https://gretsi.fr/data/colloque/pdf/2022_combettes826.pdf">paper PDF</a> / <a href="https://gretsi.fr/colloque2022/">GRETSI 2022</a>.</td>
   </tr>
-</table> -->
+</table>
 
 <!-- ## Journal papers
 
