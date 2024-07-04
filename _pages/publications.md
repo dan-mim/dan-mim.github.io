@@ -43,13 +43,49 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
 <table>
   <tr>
     <td rowspan="3" style="width: 50px;"><b>NC1</b></td>
-    <td>A new approach for computing Wasserstein Barycenter via operator splitting in the classical balanced setting, Nov 2023.</td>
+    <td>Mimouni, D.(2023). Advances in Variational Analysis and Nonsmooth Optimization: Computing Wasserstein Barycenter via Operator Splitting: the Method of Averaged Marginals, July 2024.</td>
+  </tr>
+  <tr>
+    <td>Presentation during the <a href="https://ismp2024.gerad.ca/">25th International Symposium on Mathematical Programming</a> </td>
+  </tr>
+  <tr>
+    <td>Links: <a href="/files/ISMP.pdf">slides not up to date</a>.</td>
+  </tr>
+
+  <tr>
+    <td rowspan="3" style="width: 50px;"><b>NC1</b></td>
+    <td>Mimouni, D.(2023). A new approach for computing Wasserstein Barycenter via operator splitting in the classical balanced setting, Nov 2023.</td>
   </tr>
   <tr>
     <td>Presentation during the <a href="https://smf.emath.fr/evenements-smf/pgmo-days-2023">PGMO days</a> </td>
   </tr>
   <tr>
     <td>Links: <a href="/files/PGMOdays.pdf"> slides </a> /  <a href="daniel.mimouni@ifpen.fr">Presentation (video) on demand</a>.</td>
+  </tr>
+
+  <tr>
+    <td rowspan="3" style="width: 50px;"><b>NC2</b></td>
+    <td>Mimouni, D.(2023). About the Wasserstein Barycenter, April 2023.</td>
+  </tr>
+  <tr>
+    <td>Presentation during the <a href="https://smf.emath.fr/evenements-smf/pgmo-days-2023">CIROQUO conference</a> </td>
+  </tr>
+  <tr>
+    <td>Links: <a href="/files/CIROQUO_Wasserstein.pdf"> Poster </a>.</td>
+  </tr>
+</table>
+
+## PhD Mid-term Report
+<table>
+  <tr>
+    <td rowspan="3" style="width: 50px;"><b>J1</b></td>
+    <td>Mimouni, D.(2023). Scenario Tree Reduction and Operator Splitting Method for Stochastic Optimization of Energy Systems</td>
+  </tr>
+  <tr>
+    <td>This report corresponds to the researchs I have carried on up to April 2024. I also presented my research at the industrial annual meeting for PhD student in IFP énergie nouvelles. </td>
+  </tr>
+  <tr>
+    <td>Links: <a href="/files/MIMOUNI_Daniel_R11.pdf">Report </a> / <a href="/files/mid-phd_Mimouni_Daniel_R11.pdf">Slides</a> .</td>
   </tr>
 </table>
 
