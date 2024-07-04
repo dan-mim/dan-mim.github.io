@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sylvain Combettes"
+title                    : "Daniel Mimouni"
 title_separator          : "-"
-name                     : &name "Sylvain Combettes"
+name                     : &name "Daniel Mimouni"
 description              : &description "personal description"
-url                      : https://sylvaincom.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dan-mim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sylvaincom/sylvaincom.github.io"
+repository               : "dan-mim/dan-mim.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sylvain Combettes"
+  name             : "Daniel Mimouni"
   avatar           : "profile.png"
-  bio              : "Postdoc working on machine learning for time series @ ENS Paris-Saclay"
+  bio              : "PhD student at Mines Paris - Engineer from Centrale Lyon with Msc from Imperial College London"
   location         : "Paris, France"
-  employer         : # "Centre Borelli, ENS Paris-Saclay"
+  employer         : # "IFP énergies nouvelles"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=yXz3FG8AAAAJ"
   email            : # "{firstname.lastname}@ens-paris-saclay.fr"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sylvaincom"
+  github           : "dan-mim"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "sylvaincom"
+  twitter          : "dan-mim"
   vine             :
   weibo            :
   xing             :
