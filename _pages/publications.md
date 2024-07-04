@@ -53,7 +53,7 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
   </tr>
 
   <tr>
-    <td rowspan="3" style="width: 50px;"><b>NC1</b></td>
+    <td rowspan="3" style="width: 50px;"><b>NC2</b></td>
     <td>Mimouni, D.(2023). A new approach for computing Wasserstein Barycenter via operator splitting in the classical balanced setting, Nov 2023.</td>
   </tr>
   <tr>
@@ -64,7 +64,7 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
   </tr>
 
   <tr>
-    <td rowspan="3" style="width: 50px;"><b>NC2</b></td>
+    <td rowspan="3" style="width: 50px;"><b>NC3</b></td>
     <td>Mimouni, D.(2023). About the Wasserstein Barycenter, April 2023.</td>
   </tr>
   <tr>
@@ -78,7 +78,7 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
 ## PhD Mid-term Report
 <table>
   <tr>
-    <td rowspan="3" style="width: 50px;"><b>J1</b></td>
+    <td rowspan="3" style="width: 50px;"><b>R1</b></td>
     <td>Mimouni, D.(2023). Scenario Tree Reduction and Operator Splitting Method for Stochastic Optimization of Energy Systems</td>
   </tr>
   <tr>
