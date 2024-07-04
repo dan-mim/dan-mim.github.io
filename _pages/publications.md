@@ -30,17 +30,52 @@ Moreover, compared to 9 elastic distances on a clustering task, $d_{symb}$ achie
 <hr style="height: 3px; background-color: black;">
 </details>
 
-## PhD manuscript
+## Journal papers
 
 <table>
   <tr>
-    <td rowspan="2" style="width: 50px;"><b>T1</b></td>
-    <td>Sylvain Combettes. Symbolic representations of time series. Machine Learning [cs.LG]. Université Paris-Saclay, 2024. English. NNT : 2024UPASM002. tel-04573912.</td>
+    <td rowspan="3" style="width: 50px;"><b>J1</b></td>
+    <td>Mimouni, D., Malisani, P., Zhu, J., & de Oliveira, W. (2023). Computing Wasserstein Barycenter via operator splitting: the method of averaged marginals. arXiv preprint arXiv:2309.05315. 
   </tr>
   <tr>
-    <td>Links: <a href="https://theses.fr/2024UPASM002">theses.fr</a> / <a href="https://theses.hal.science/tel-04573912">HAL</a> / <a href="https://theses.hal.science/tel-04573912v1/document">manuscript PDF</a> / <a href="/files/2024_01_08_phd_defense.pdf">defense slides PDF</a>.</td>
+    <td>This paper is currently under review for SIAM Journal on Mathematics of Data Science (SIMODS)</td>
+  </tr>
+  <tr>
+    <td>Links: <a href="https://www.researchgate.net/publication/373838665_Computing_Wasserstein_Barycenter_via_operator_splitting_the_method_of_averaged_marginals">website</a> / <a href="https://arxiv.org/pdf/2309.05315">paper PDF</a> / <a href="https://ifpen-gitlab.appcollaboratif.fr/detocs/mam_wb">codes</a> .</td>
   </tr>
 </table>
+
+
+## National conference papers
+
+<table>
+  <tr>
+    <td rowspan="3" style="width: 50px;"><b>NC1</b></td>
+    <td>S. W. Combettes, C. Truong, and L. Oudre. "SAX-DD: une nouvelle représentation symbolique pour séries temporelles" In <i>Proceedings of the Groupe de Recherche et d’Etudes En Traitement Du Signal et Des Images (GRETSI)</i>, Nancy, France, 2022.</td>
+  </tr>
+  <tr>
+    <td>Method name: SAX-DD.</td>
+  </tr>
+  <tr>
+    <td>Links: <a href="https://gretsi.fr/data/colloque/pdf/2022_combettes826.pdf">paper PDF</a> / <a href="https://gretsi.fr/colloque2022/">GRETSI 2022</a>.</td>
+  </tr>
+</table>
+
+<!-- ## Journal papers
+
+<table>
+  <tr>
+    <td rowspan="3" style="width: 50px;"><b>J1</b></td>
+    <td>S. W. Combettes, P. Boniol, A. Mazarguil, D. Wang, D. Vaquero-Ramos, M. Chauveau, L. Oudre, N. Vayatis, P.-P. Vidal, A. Roren, and M.-M. Lefèvre-Colau. "Arm-CODA: A Data Set of Upper-limb Human Movement During Routine Examination." <i>Image Processing On Line (IPOL)</i>, 14:1-13, 2024.</td>
+  </tr>
+  <tr>
+    <td>Data set name: Arm-CODA.</td>
+  </tr>
+  <tr>
+    <td>Links: <a href="https://www.ipol.im/pub/art/2024/494/">website</a> / <a href="https://www.ipol.im/pub/art/2024/494/article.pdf">paper PDF</a> / <a href="https://ipolcore.ipol.im/demo/clientApp/demo.html?id=494">demo</a>.</td>
+  </tr>
+</table>
+
 
 ## International conference papers
 
@@ -79,36 +114,6 @@ Moreover, compared to 9 elastic distances on a clustering task, $d_{symb}$ achie
   </tr>
 </table>
 
-## National conference papers
-
-<table>
-  <tr>
-    <td rowspan="3" style="width: 50px;"><b>NC1</b></td>
-    <td>S. W. Combettes, C. Truong, and L. Oudre. "SAX-DD: une nouvelle représentation symbolique pour séries temporelles" In <i>Proceedings of the Groupe de Recherche et d’Etudes En Traitement Du Signal et Des Images (GRETSI)</i>, Nancy, France, 2022.</td>
-  </tr>
-  <tr>
-    <td>Method name: SAX-DD.</td>
-  </tr>
-  <tr>
-    <td>Links: <a href="https://gretsi.fr/data/colloque/pdf/2022_combettes826.pdf">paper PDF</a> / <a href="https://gretsi.fr/colloque2022/">GRETSI 2022</a>.</td>
-  </tr>
-</table>
-
-## Journal papers
-
-<table>
-  <tr>
-    <td rowspan="3" style="width: 50px;"><b>J1</b></td>
-    <td>S. W. Combettes, P. Boniol, A. Mazarguil, D. Wang, D. Vaquero-Ramos, M. Chauveau, L. Oudre, N. Vayatis, P.-P. Vidal, A. Roren, and M.-M. Lefèvre-Colau. "Arm-CODA: A Data Set of Upper-limb Human Movement During Routine Examination." <i>Image Processing On Line (IPOL)</i>, 14:1-13, 2024.</td>
-  </tr>
-  <tr>
-    <td>Data set name: Arm-CODA.</td>
-  </tr>
-  <tr>
-    <td>Links: <a href="https://www.ipol.im/pub/art/2024/494/">website</a> / <a href="https://www.ipol.im/pub/art/2024/494/article.pdf">paper PDF</a> / <a href="https://ipolcore.ipol.im/demo/clientApp/demo.html?id=494">demo</a>.</td>
-  </tr>
-</table>
-
 ## Preprints
 
 <table>
@@ -122,7 +127,7 @@ Moreover, compared to 9 elastic distances on a clustering task, $d_{symb}$ achie
   <tr>
     <td>Links: <a href="https://arxiv.org/abs/2302.04097">website</a> / <a href="https://arxiv.org/pdf/2302.04097.pdf">paper PDF</a> / <a href="https://github.com/sylvaincom/astride">GitHub</a>.</td>
   </tr>
-</table>
+</table> -->
 
 <!-- <table>
   <tr>
