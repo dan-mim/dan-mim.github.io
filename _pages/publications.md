@@ -60,7 +60,7 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
     <td>Presentation during the <a href="https://smf.emath.fr/evenements-smf/pgmo-days-2023">PGMO days</a> </td>
   </tr>
   <tr>
-    <td>Links: <a href="/files/PGMOdays.pdf"> slides </a> /  <a href="daniel.mimouni@ifpen.fr">Presentation (video) on demand</a>.</td>
+    <td>Links: <a href="/files/PGMOdays.pdf"> slides </a> /  Presentation (video) on demand.</td>
   </tr>
 
   <tr>
