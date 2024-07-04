@@ -35,10 +35,10 @@ Moreover, compared to 9 elastic distances on a clustering task, $d_{symb}$ achie
 <table>
   <tr>
     <td rowspan="3" style="width: 50px;"><b>J1</b></td>
-    <td>Mimouni, D., Malisani, P., Zhu, J., & de Oliveira, W. (2023). Computing Wasserstein Barycenter via operator splitting: the method of averaged marginals. arXiv preprint arXiv:2309.05315. 
+    <td>Mimouni, D., Malisani, P., Zhu, J., & de Oliveira, W. (2023). Computing Wasserstein Barycenter via operator splitting: the method of averaged marginals. arXiv preprint arXiv:2309.05315. </td>
   </tr>
   <tr>
-    <td>This paper is currently under review for SIAM Journal on Mathematics of Data Science (SIMODS)</td>
+    <td>This paper is currently under review for <a href="https://www.siam.org/publications/journals/siam-journal-on-mathematics-of-data-science-simods">SIAM Journal on Mathematics of Data Science (SIMODS)</a> </td>
   </tr>
   <tr>
     <td>Links: <a href="https://www.researchgate.net/publication/373838665_Computing_Wasserstein_Barycenter_via_operator_splitting_the_method_of_averaged_marginals">website</a> / <a href="https://arxiv.org/pdf/2309.05315">paper PDF</a> / <a href="https://ifpen-gitlab.appcollaboratif.fr/detocs/mam_wb">codes</a> .</td>
@@ -46,7 +46,7 @@ Moreover, compared to 9 elastic distances on a clustering task, $d_{symb}$ achie
 </table>
 
 
-## National conference papers
+<!-- ## National conference papers
 
 <table>
   <tr>
@@ -59,7 +59,7 @@ Moreover, compared to 9 elastic distances on a clustering task, $d_{symb}$ achie
   <tr>
     <td>Links: <a href="https://gretsi.fr/data/colloque/pdf/2022_combettes826.pdf">paper PDF</a> / <a href="https://gretsi.fr/colloque2022/">GRETSI 2022</a>.</td>
   </tr>
-</table>
+</table> -->
 
 <!-- ## Journal papers
 
