@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Daniel Mimouni"
-excerpt: "Machine learning"
+excerpt: "PhD in Applied Mathematics"
 author_profile: true
 redirect_from:
   - /about/
@@ -19,4 +19,4 @@ Contact: `daniel.mimouni@ifpen.fr`
 ## News
 - [July 21st-28th, 2024] I will take part in the [25th International Symposium on Mathematical Programming](https://ismp2024.gerad.ca/) in Montreal, Canada, where I will present my work about a new approach to compute efficiently the Wasserstein Barycenter for discrete probability measures (balanced and unbalanced and with extending settings). I will present in the session [Advances in Variational Analysis and Nonsmooth Optimization](https://ismp2024.gerad.ca/schedule/TA/112).
 - [April, 2024] I am visiting the Centre of Applied Mathematics in Sophia Antipolis to work closely with [Welington de Oliveira](https://www.oliveira.mat.br/) and Gregorio Martinez about non-convex and non-smooth extentions within the Douglas-Rachford method framework. 
-- [Nov 28th-29th, 2023] Presentation during the PGMO days, the annual conference of the Optimization, OR, and Data Science program of the FMJH [Fondation Mathématiques Jacques Hadamard](https://smf.emath.fr/evenements-smf/pgmo-days-2023). I presented a first new method to compute the Wasserstein Barycenter in the balanced setting.
+- [Nov 28th-29th, 2023] Presentation during the [PGMO days](https://smf.emath.fr/evenements-smf/pgmo-days-2023), the annual conference of the Optimization, OR, and Data Science program of the FMJH [Fondation Mathématiques Jacques Hadamard](https://smf.emath.fr/evenements-smf/pgmo-days-2023). I presented a first new method to compute the Wasserstein Barycenter in the balanced setting.
