@@ -15,11 +15,12 @@ A good summary article has been produced by [Le Monde](https://www.lemonde.fr/sc
 
 ## Mens sana in corpore sano 
 I’m really into water sports and board sports.They are not just about thrilling sensations, but also about enjoying serene moments in beautiful landscapes and nature.
-<div style='display: flex; justify-content: center;'>
-  <img src='/images/surf2.jpeg' style='width: 30%; height: auto;'>
-  <img src='/images/surfV.jpg' style='width: 30%; height: auto;'>
-  <img src='/images/surf3.jpg' style='width: 30%; height: auto;'>
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="/images/surf2.jpeg" style="max-width: 30%; height: auto;">
+  <img src="/images/surfV.jpg" style="max-width: 30%; height: auto;">
+  <img src="/images/surf3.jpg" style="max-width: 30%; height: auto;">
 </div>
+
 <br><br>
 
 Sport and art can be a nice mix. I customize my skateboards inspired by my favorite painters.
