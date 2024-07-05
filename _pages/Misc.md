@@ -13,6 +13,10 @@ This question finds some answers in the [work of Ingrid Fetter-Pruneda](https://
 A good summary article has been produced by [Le Monde](https://www.lemonde.fr/sciences/article/2018/08/07/comment-devenir-reine-des-fourmis_5339968_1650684.html) for a more vulgarized approach.
 
 
+## Side projects
+Is it possible to have diner for free in nice restaurant in Paris? Yes if you can leverage some public exposition. This thouhgt gave me the idea to create an instagram page, which aim is to have enought followers to enable me to get invited by the restaurant themselves. But I don't want to spend my time posting photos and interact with users. Therfore I created a fully automatized account posting nice parisian pics. First I selected 10 000 photos from various photographers and developped an machine learning model to select the most promicing of them. The [account](https://www.instagram.com/paris_pics_aesthetic/) posts (and credit the authors, they were always very happy to be reposted), interact and even follow, like and comment relevantly. This coding challenge was very interesting and taught me a lot. The account gained almost 1000 followers in one month and was pretty effective. I indeed got some invits. I finally thought my aim was reached and decided to stop the program that could go against the new instagram antibot policy.
+
+
 ## Mens sana in corpore sano 
 I’m really into water sports and board sports.They are not just about thrilling sensations, but also about enjoying serene moments in beautiful landscapes and nature.
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
@@ -31,17 +35,6 @@ I’m really into water sports and board sports.They are not just about thrillin
 <br><br>
 
 Sport and art can be a nice mix. I customize my skateboards inspired by my favorite painters.
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <div style="flex: 1; max-width: 20%;">
-    <img src="/images/skate1.jpg" style="width: 100%; height: auto;">
-  </div>
-  <div style="flex: 1; max-width: 20%;">
-    <img src="/images/skateprocess.jpg" style="width: 100%; height: auto;">
-  </div>
-  <div style="flex: 1; max-width: 20%;">
-    <img src="/images/skate2.jpg" style="width: 100%; height: auto;">
-  </div>
-</div>
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src='/images/skate1.jpg' style='width: 20%; height: auto;'>
   <img src='/images/skateprocess.jpg' style='width: 20%; height: auto;'>
