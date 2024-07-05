@@ -12,7 +12,7 @@ This question finds some answers in the [work of Ingrid Fetter-Pruneda](https://
 <!-- (Chandra, V., Fetter-Pruneda, I., Oxley, P. R., Ritger, A. L., McKenzie, S. K., Libbrecht, R., & Kronauer, D. J. (2018). Social regulation of insulin signaling and the evolution of eusociality in ants. Science, 361(6400), 398-402.) -->
 A good summary article has been produced by [Le Monde](https://www.lemonde.fr/sciences/article/2018/08/07/comment-devenir-reine-des-fourmis_5339968_1650684.html) for a more vulgarized approach.
 
-More to come about history ([for example the archeological research about Massada](https://en.wikipedia.org/wiki/Masada)), maths[for example this](https://www.youtube.com/watch?v=094y1Z2wpJg&t=1053s) and the challenges linked to model reality ([this about data science](https://www.youtube.com/watch?v=HHCiNPtR1NI), [this about modelization(https://www.youtube.com/watch?v=Ch7VxxTBe1c)]).
+More to come about history ([for example the archeological research about Massada](https://en.wikipedia.org/wiki/Masada)), maths[for example this](https://www.youtube.com/watch?v=094y1Z2wpJg&t=1053s) and the challenges linked to model reality ([this about data science](https://www.youtube.com/watch?v=HHCiNPtR1NI), [this about modelization](https://www.youtube.com/watch?v=Ch7VxxTBe1c)).
 
 
 ## Side projects
