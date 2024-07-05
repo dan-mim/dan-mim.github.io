@@ -14,7 +14,10 @@ A good summary article has been produced by [Le Monde](https://www.lemonde.fr/sc
 
 
 ## Side projects
-Is it possible to have diner for free in nice restaurant in Paris? Yes if you can leverage some public exposition. This thouhgt gave me the idea to create an instagram page, which aim is to have enought followers to enable me to get invited by the restaurant themselves. But I don't want to spend my time posting photos and interact with users. Therfore I created a fully automatized account posting nice parisian pics. First I selected 10 000 photos from various photographers and developped an machine learning model to select the most promicing of them. The [account](https://www.instagram.com/paris_pics_aesthetic/) posts (and credit the authors, they were always very happy to be reposted), interact and even follow, like and comment relevantly. This coding challenge was very interesting and taught me a lot. The account gained almost 1000 followers in one month and was pretty effective. I indeed got some invits. I finally thought my aim was reached and decided to stop the program that could go against the new instagram antibot policy.
+Is it possible to have dinner for free at a nice restaurant in Paris? Yes, if you can leverage some public exposure. This idea inspired me to create an Instagram page with the goal of gaining enough followers to get invited by the restaurants themselves. However, I didn't want to spend my time posting photos and interacting with users. So, I created a fully automated account that posts beautiful Parisian pictures.
+
+First, I selected 10,000 photos from various photographers and developed a machine learning model to choose the most promising ones. The [account](https://www.instagram.com/paris_pics_aesthetic/) posts the photos (crediting the authors, who were always happy to be reposted), interacts, and even follows, likes, and comments relevantly. This coding challenge was very interesting and taught me a lot. The account gained almost 1,000 followers in one month, itwas quite effective—I did receive some invitations! Once I felt I had achieved my goal, I decided to stop the program to comply with Instagram's new anti-bot policy.
+
 
 
 ## Mens sana in corpore sano 
