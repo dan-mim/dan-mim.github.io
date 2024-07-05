@@ -33,7 +33,7 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
     <td>This paper is currently under review for <a href="https://www.siam.org/publications/journals/siam-journal-on-mathematics-of-data-science-simods">SIAM Journal on Mathematics of Data Science (SIMODS)</a> </td>
   </tr>
   <tr>
-    <td>Links: <a href="https://www.researchgate.net/publication/373838665_Computing_Wasserstein_Barycenter_via_operator_splitting_the_method_of_averaged_marginals">website</a> / <a href="https://arxiv.org/pdf/2309.05315">paper PDF</a> / <a href="https://ifpen-gitlab.appcollaboratif.fr/detocs/mam_wb">codes</a> .</td>
+    <td>Link: <a href="https://www.researchgate.net/publication/373838665_Computing_Wasserstein_Barycenter_via_operator_splitting_the_method_of_averaged_marginals">website</a> / <a href="https://arxiv.org/pdf/2309.05315">paper PDF</a> / <a href="https://ifpen-gitlab.appcollaboratif.fr/detocs/mam_wb">codes</a> .</td>
   </tr>
 </table>
 
@@ -49,7 +49,7 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
     <td>Presentation during the <a href="https://ismp2024.gerad.ca/">25th International Symposium on Mathematical Programming</a> </td>
   </tr>
   <tr>
-    <td>Links: <a href="/files/ISMP.pdf">slides not up to date</a>.</td>
+    <td>Link: <a href="/files/ISMP.pdf">slides (not up to date)</a>.</td>
   </tr>
 
   <tr>
@@ -60,7 +60,7 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
     <td>Presentation during the <a href="https://smf.emath.fr/evenements-smf/pgmo-days-2023">PGMO days</a> </td>
   </tr>
   <tr>
-    <td>Links: <a href="/files/PGMOdays.pdf"> slides </a> /  Presentation (video) on demand.</td>
+    <td>Link: <a href="/files/PGMOdays.pdf"> slides </a> /  Presentation (video) on demand.</td>
   </tr>
 
   <tr>
