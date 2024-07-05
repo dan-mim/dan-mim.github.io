@@ -27,10 +27,9 @@ I’m really into water sports and board sports.They are not just about thrillin
   </div>
 </div>
 
-
 <div style="display: flex; justify-content: center; gap: 10px;">
   <img src="/images/surf2.jpeg" style="max-width: 20%; height: auto;">
-  <img src="/images/surfV.jpg"  style="max-width: 20%; height: auto;">
+  <img src="/images/surfV.jpg">
   <img src="/images/surf3.jpg" style="max-width: 20%; height: auto;">
 </div>
 
