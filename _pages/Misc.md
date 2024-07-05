@@ -1,3 +1,4 @@
+---
 layout: archive
 title: "Miscellaneous"
 permalink: /Misc/
