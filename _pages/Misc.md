@@ -36,8 +36,19 @@ I’m really into water sports and board sports.They are not just about thrillin
 <br><br>
 
 Sport and art can be a nice mix. I customize my skateboards inspired by my favorite painters.
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <div style="flex: 1; max-width: 20%;">
+    <img src="/images/skate1.jpg" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1; max-width: 20%;">
+    <img src="/images/skateprocess.jpg" style="width: 100%; height: auto;">
+  </div>
+  <div style="flex: 1; max-width: 20%;">
+    <img src="/images/skate2.jpg" style="width: 100%; height: auto;">
+  </div>
+</div>
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src='/images/skate1.jpg' style='width: 30%; height: auto;'>
-  <img src='/images/skateprocess.jpg' style='width: 30%; height: auto;'>
-  <img src='/images/skate2.jpg' style='width: 30%; height: auto;'>
+  <img src='/images/skate1.jpg' style='width: 20%; height: auto;'>
+  <img src='/images/skateprocess.jpg' style='width: 20%; height: auto;'>
+  <img src='/images/skate2.jpg' style='width: 20%; height: auto;'>
 </div>
