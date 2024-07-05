@@ -16,10 +16,10 @@ A good summary article has been produced by [Le Monde](https://www.lemonde.fr/sc
 ## Mens sana in corpore sano 
 I’m really into water sports and board sports.They are not just about thrilling sensations, but also about enjoying serene moments in beautiful landscapes and nature.
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <div style="flex: 1; max-width: 30%;">
+  <div style="flex: 1; max-width: 20%;">
     <img src="/images/surf2.jpeg" style="width: 100%; height: auto;">
   </div>
-  <div style="flex: 1; max-width: 30%;">
+  <div style="flex: 1; max-width: 45%;">
     <img src="/images/surfV.jpg" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 1; max-width: 30%;">
@@ -27,11 +27,6 @@ I’m really into water sports and board sports.They are not just about thrillin
   </div>
 </div>
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="/images/surf2.jpeg" style="max-width: 20%; height: auto;">
-  <img src="/images/surfV.jpg">
-  <img src="/images/surf3.jpg" style="max-width: 20%; height: auto;">
-</div>
 
 <br><br>
 
