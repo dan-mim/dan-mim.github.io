@@ -18,7 +18,7 @@ A good summary article has been produced by [Le Monde](https://www.lemonde.fr/sc
 <div style='text-align: center;'>
   <img src='/images/kirby.jpg' style='width: 20%; height: auto;'>
 </div>
-<div style='text-align: center;'>
+<div style="text-align: center; font-size: smaller;">
 Then visit <a href="https://www.arte.tv/fr/">Arte</a>, they posted a great <a href="https://www.youtube.com/watch?v=wS1Tsj_fl5o">vulgarized video</a>  to understand the maths behind this curious law.
 </div>
 
