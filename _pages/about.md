@@ -22,7 +22,7 @@ Contact: `daniel.mimouni@ifpen.fr`
 - <span style="font-size: 70%;">[Nov 28th-29th, 2023] Presentation during the [PGMO days](https://smf.emath.fr/evenements-smf/pgmo-days-2023), the annual conference of the Optimization, OR, and Data Science program of the FMJH [Fondation Mathématiques Jacques Hadamard](https://smf.emath.fr/evenements-smf/pgmo-days-2023). I presented a first new method to compute the Wasserstein Barycenter in the balanced setting.</span>
 
 
-<br><br>
+<br>
 <div style='text-align: center;'>
   <img src='/images/tree_pants.jpg' style='width: 50%; height: auto;'>
 </div>
