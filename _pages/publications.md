@@ -33,7 +33,7 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
     <td>To appear in <a href="https://www.siam.org/publications/journals/siam-journal-on-mathematics-of-data-science-simods">SIAM Journal on Mathematics of Data Science (SIMODS)</a> </td>
   </tr>
   <tr>
-    <td>Link: <a href="https://www.researchgate.net/publication/373838665_Computing_Wasserstein_Barycenter_via_operator_splitting_the_method_of_averaged_marginals">website</a> / <a href="https://arxiv.org/pdf/2309.05315">paper PDF</a> / <a href="https://ifpen-gitlab.appcollaboratif.fr/detocs/mam_wb">codes</a> .</td>
+    <td>Link: <a href="https://www.researchgate.net/publication/373838665_Computing_Wasserstein_Barycenter_via_operator_splitting_the_method_of_averaged_marginals">website</a> / <a href="/files/Computing_Wasserstein_Barycenters_via_operator_splitting.pdf">paper PDF</a> / <a href="https://ifpen-gitlab.appcollaboratif.fr/detocs/mam_wb">codes</a> .</td>
   </tr>
 </table>
 
