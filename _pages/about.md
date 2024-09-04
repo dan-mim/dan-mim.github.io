@@ -1,0 +1,28 @@
+---
+permalink: /
+title: "Daniel Mimouni"
+excerpt: "PhD in Applied Mathematics"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
+I am a PhD student in Applied Mathematics at Mines Paris ([CMA](https://www.cma.mines-paristech.fr/)) and IFP énergies nouvelles (Applied Mathematics Department), under the supervision of Paul Malisani, [Welington de Oliveira](https://www.oliveira.mat.br/) and Jiamin Zhu.
+
+My fields of interest primarily encompass Optimal Transport and Optimization. I am dedicated to combining theoretical research in optimization with practical applications relevant to the energy industry, as well as exploring opportunities in biomedical topics and other fields.
+
+
+
+Contact: `daniel.mimouni@ifpen.fr`
+
+## News
+- [July 21st-28th, 2024] I will take part in the [25th International Symposium on Mathematical Programming](https://ismp2024.gerad.ca/) in Montreal, Canada, where I will present my work about a new approach to compute efficiently the Wasserstein Barycenter for discrete probability measures (balanced and unbalanced and with extending settings). I will present in the session [Advances in Variational Analysis and Nonsmooth Optimization](https://ismp2024.gerad.ca/schedule/TA/112).<br>
+- <span style="font-size: 70%;">[April, 2024] I am visiting the Centre of Applied Mathematics in Sophia Antipolis to work closely with [Welington de Oliveira](https://www.oliveira.mat.br/) and Gregorio Martinez about non-convex and non-smooth extensions within the Douglas-Rachford method framework.</span> <br>
+- <span style="font-size: 70%;">[Nov 28th-29th, 2023] Presentation during the [PGMO days](https://smf.emath.fr/evenements-smf/pgmo-days-2023), the annual conference of the Optimization, OR, and Data Science program of the FMJH [Fondation Mathématiques Jacques Hadamard](https://smf.emath.fr/evenements-smf/pgmo-days-2023). I presented a first new method to compute the Wasserstein Barycenter in the balanced setting.</span>
+
+
+<br>
+<div style='text-align: center;'>
+  <img src='/images/tree_pants.jpg' style='width: 50%; height: auto;'>
+</div>
