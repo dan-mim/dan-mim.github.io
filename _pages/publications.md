@@ -30,7 +30,7 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
     <td>Mimouni, D., Malisani, P., Zhu, J., & de Oliveira, W. (2023). Computing Wasserstein Barycenter via operator splitting: the method of averaged marginals. arXiv preprint arXiv:2309.05315. </td>
   </tr>
   <tr>
-    <td>To appear in <a href="https://www.siam.org/publications/journals/siam-journal-on-mathematics-of-data-science-simods">SIAM Journal on Mathematics of Data Science (SIMODS)</a> </td>
+    <td>To appear in <a href="https://www.siam.org/publications/journals/siam-journal-on-mathematics-of-data-science-simods">SIAM Journal on Mathematics of Data Science (SIMODS)</a>. (We have made, using AI, a song describing the method (MAM). You may check it <a href="https://drive.google.com/file/d/1ZN8mGAFXmsbvSU3s83v1qkVVg0oKJkI7/view?usp=drive_link">here</a>.) </td>
   </tr>
   <tr>
     <td>Link: <a href="https://www.researchgate.net/publication/373838665_Computing_Wasserstein_Barycenter_via_operator_splitting_the_method_of_averaged_marginals">website</a> / <a href="/files/Computing_Wasserstein_Barycenters_via_operator_splitting.pdf">paper PDF</a> / <a href="https://ifpen-gitlab.appcollaboratif.fr/detocs/mam_wb">codes</a> .</td>
