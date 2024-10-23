@@ -26,7 +26,7 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
 
 <table>
   <tr>
-    <td><th style="padding-bottom: 10px;">Mimouni, D., Malisani, P., Zhu, J., & de Oliveira, W. (2023). Computing Wasserstein Barycenter via operator splitting: the method of averaged marginals. DOI: 10.1137/23M1584228.</th> </td>
+    <td><b>Mimouni, D., Malisani, P., Zhu, J., & de Oliveira, W. (2023). Computing Wasserstein Barycenter via operator splitting: the method of averaged marginals. DOI: 10.1137/23M1584228.</b> </td>
   </tr>
   <tr>
     <td>In <a href="https://epubs.siam.org/doi/abs/10.1137/23M1584228">SIAM Journal on Mathematics of Data Science (SIMODS)</a>. (We have made, using AI, a song describing the method (MAM). You may check it <a href="https://drive.google.com/file/d/1ZN8mGAFXmsbvSU3s83v1qkVVg0oKJkI7/view?usp=drive_link">here</a>.) </td>
@@ -35,7 +35,7 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
     <td>Link: <a href="https://epubs.siam.org/doi/abs/10.1137/23M1584228">Paper</a> <a href="https://www.researchgate.net/publication/373838665_Computing_Wasserstein_Barycenter_via_operator_splitting_the_method_of_averaged_marginals">ResearchGate</a> / <a href="/files/Computing_Wasserstein_Barycenters_via_operator_splitting.pdf">paper PDF</a> / <a href="https://ifpen-gitlab.appcollaboratif.fr/detocs/mam_wb">codes</a> .</td>
   </tr>
    <tr>
-    <td><th style="padding-top: 20px;">Mimouni, D., Malisani, P., Zhu, J., & de Oliveira, W. (2024). Scenario Tree Reduction via Wasserstein Barycenters.</th> </td>
+    <td><b>Mimouni, D., Malisani, P., Zhu, J., & de Oliveira, W. (2024). Scenario Tree Reduction via Wasserstein Barycenters.</b> </td>
   </tr>
   <tr>
     <td>Submitted in <a href="https://link.springer.com/journal/10479">Annals of Operations Research</a>.  </td>
