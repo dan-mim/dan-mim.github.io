@@ -25,6 +25,14 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
 ## Journal papers
 
 <table>
+   <tr>
+    <td><b>Mimouni, D., Malisani, P., Zhu, J., & de Oliveira, W. (2024). Scenario Tree Reduction via Wasserstein Barycenters.</b> </td>
+    <br><br>
+    Submitted in <a href="https://link.springer.com/journal/10479">Annals of Operations Research</a>.  
+    <br><br>
+    Link: <a href="https://www.researchgate.net/publication/">website</a> / <a href="/files/reduction_tree.pdf">paper PDF</a> / <a href="https://github.com/dan-mim/Nested_tree_reduction">codes</a> .
+    
+  </tr>
   <tr>
     <td>
       <b>Mimouni, D., Malisani, P., Zhu, J., & de Oliveira, W. (2023). Computing Wasserstein Barycenter via operator splitting: the method of averaged marginals. DOI: 10.1137/23M1584228.</b><br><br>
@@ -33,14 +41,7 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
     </td>
   </tr>
 
-   <tr>
-    <td><b>Mimouni, D., Malisani, P., Zhu, J., & de Oliveira, W. (2024). Scenario Tree Reduction via Wasserstein Barycenters.</b> </td>
-<br><br>
-    Submitted in <a href="https://link.springer.com/journal/10479">Annals of Operations Research</a>.  
-<br><br>
-    Link: <a href="https://www.researchgate.net/publication/">website</a> / <a href="/files/reduction_tree.pdf">paper PDF</a> / <a href="https://github.com/dan-mim/Nested_tree_reduction">codes</a> .
-    
-  </tr>
+
 </table>
 
 
