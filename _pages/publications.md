@@ -36,62 +36,15 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
    <tr>
     <td><b>Mimouni, D., Malisani, P., Zhu, J., & de Oliveira, W. (2024). Scenario Tree Reduction via Wasserstein Barycenters.</b> </td>
 <br><br>
-    <td>Submitted in <a href="https://link.springer.com/journal/10479">Annals of Operations Research</a>.  </td>
+    Submitted in <a href="https://link.springer.com/journal/10479">Annals of Operations Research</a>.  
 <br><br>
-    <td>Link: <a href="https://www.researchgate.net/publication/">website</a> / <a href="/files/reduction_tree.pdf">paper PDF</a> / <a href="https://github.com/dan-mim/Nested_tree_reduction">codes</a> .</td>
+    Link: <a href="https://www.researchgate.net/publication/">website</a> / <a href="/files/reduction_tree.pdf">paper PDF</a> / <a href="https://github.com/dan-mim/Nested_tree_reduction">codes</a> .
     
   </tr>
 </table>
 
 
 ## Conference contributions
-
-<table>
-  <tr>
-    <td rowspan="3" style="width: 50px;"></td>
-    <td>Mimouni, D.(2024). Scenarios methods in stochastic control and applications:Boosting Scenario Tree Reduction, November 2024.</td>
-  </tr>
-  <tr>
-    <td>Presentation during the <a href="https://www.fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/home/pgmo-days/">The Gaspard Monge Program for Optimization, Operations Research and their interactions with Data Sciences (PGMO)</a> </td>
-  </tr>
-  <tr>
-    <td>Link: <a href="/files/PGMO2.pdf">slides (soon)</a>/  Presentation (video) on demand.</td>
-  </tr>
-
-  <tr>
-    <td rowspan="3" style="width: 50px;"></td>
-    <td>Mimouni, D.(2023). Advances in Variational Analysis and Nonsmooth Optimization: Computing Wasserstein Barycenter via Operator Splitting: the Method of Averaged Marginals, July 2024.</td>
-  </tr>
-  <tr>
-    <td>Presentation during the <a href="https://ismp2024.gerad.ca/">25th International Symposium on Mathematical Programming</a> </td>
-  </tr>
-  <tr>
-    <td>Link: <a href="/files/ISMP.pdf">slides </a>/  Presentation (video) on demand.</td>
-  </tr>
-
-  <tr>
-    <td rowspan="3" style="width: 50px;"></td>
-    <td>Mimouni, D.(2023). A new approach for computing Wasserstein Barycenter via operator splitting in the classical balanced setting, Nov 2023.</td>
-  </tr>
-  <tr>
-    <td>Presentation during the <a href="https://smf.emath.fr/evenements-smf/pgmo-days-2023">PGMO days</a> </td>
-  </tr>
-  <tr>
-    <td>Link: <a href="/files/PGMOdays.pdf"> slides </a> /  Presentation (video) on demand.</td>
-  </tr>
-
-  <tr>
-    <td rowspan="3" style="width: 50px;"></td>
-    <td>Mimouni, D.(2023). About the Wasserstein Barycenter, April 2023.</td>
-  </tr>
-  <tr>
-    <td>Presentation during the <a href="https://smf.emath.fr/evenements-smf/pgmo-days-2023">CIROQUO conference</a> </td>
-  </tr>
-  <tr>
-    <td>Links: <a href="/files/CIROQUO_Wasserstein.pdf"> Poster </a>.</td>
-  </tr>
-</table>
-
 
 <table>
   <tr>
@@ -138,19 +91,6 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
   </tr>
 </table>
 
-
-<table>
-  <tr>
-    <td rowspan="3" style="width: 50px;"></td>
-    <td>Mimouni, D.(2023). Scenario Tree Reduction and Operator Splitting Method for Stochastic Optimization of Energy Systems</td>
-  </tr>
-  <tr>
-    <td>This report corresponds to the researchs I have carried on up to April 2024. I also presented my research at the industrial annual meeting for PhD student in IFP énergie nouvelles. </td>
-  </tr>
-  <tr>
-    <td>Links: <a href="/files/MIMOUNI_Daniel_R11.pdf">Report </a> / <a href="/files/mid-phd_Mimouni_Daniel_R11.pdf">Slides</a> .</td>
-  </tr>
-</table>
 
 <!-- ## Journal papers
 
