@@ -45,7 +45,6 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
 
 
 ## Conference contributions
-
 <table>
   <tr>
     <td>
@@ -60,6 +59,14 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
       <b>Mimouni, D.(2023). Advances in Variational Analysis and Nonsmooth Optimization: Computing Wasserstein Barycenter via Operator Splitting: the Method of Averaged Marginals, July 2024.</b><br><br>
       Presentation during the <a href="https://ismp2024.gerad.ca/">25th International Symposium on Mathematical Programming</a><br><br>
       Link: <a href="/files/ISMP.pdf">slides</a> / Presentation (video) on demand.
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <b>de Oliveira, W., Mimouni, D.(2024). New Approach to Optimal Transport problems, 2024</b><br><br>
+      Presentation at <a href="https://europt2024.event.lu.se/">EUROPT 2024</a><br><br>
+      Link: <a href="/files/Europt_wlo.pdf">slides</a>.
     </td>
   </tr>
 
