@@ -51,7 +51,7 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
     <td>
       <b>Mimouni, D.(2024). Scenarios methods in stochastic control and applications: Boosting Scenario Tree Reduction, November 2024.</b><br><br>
       Presentation during the <a href="https://www.fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/home/pgmo-days/">The Gaspard Monge Program for Optimization, Operations Research and their interactions with Data Sciences (PGMO)</a><br><br>
-      Link: <a href="/files/PGMO_reduction_tree.pdf">slides (soon)</a> / Presentation (video) on demand.
+      Link: <a href="/files/PGMO_reduction_tree.pdf">slides</a> / Presentation (video) on demand.
     </td>
   </tr>
 
