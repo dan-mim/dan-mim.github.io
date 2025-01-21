@@ -7,7 +7,7 @@ author_profile: true
 
 <!-- You can also find my articles on <a href="https://scholar.google.com/citations?user=WUwMZtIAAAAJ&hl=fr">my Google Scholar profile</a>. -->
 
-<details>
+<!-- <details>
 <summary>Click here for an overview of my PhD objectives achived so far.</summary>
 <hr style="height: 3px; background-color: black;">
 
@@ -20,7 +20,7 @@ My work presents a comprehensive investigation of the use of Wasserstein distanc
 By proposing efficient algorithms for computing Wasserstein barycenters and reducing scenario trees, we address critical challenges in managing uncertainties in multistage stochastic optimization. Looking ahead, future research directions include further exploration of the interplay between optimization algorithms and stochastic processes to refine scenario tree reduction methodologies and enhance the applicability of Wasserstein-based methods in complex optimization problems. 
 
 <hr style="height: 3px; background-color: black;">
-</details>
+</details> -->
 
 ## Journal papers
 
