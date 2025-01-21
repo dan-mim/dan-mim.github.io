@@ -52,7 +52,7 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
 
 
 
-## Conference contributions
+## Talks/Conference contributions
 <table>
   <tr>
     <td>
