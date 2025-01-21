@@ -27,8 +27,16 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
 <table>
   <tr>
     <td>
+      <b>Mimouni, D., de Oliveira, W., Sempere, G. M. (2025). On the Computation of Constrained Wasserstein Barycenters.</b><br><br>
+      Submitted to Pacific Journal of Optimization for a special issue dedicated to Professor R. Tyrrell Rockafellar on the occasion of his 90th birthday.<br><br>
+      Link: <a href="/files/constrained_Wasserstein.pdf">paper PDF</a> / <a href="https://github.com/dan-mim/Constrained_Wasserstein_Barycenters">codes</a>.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
       <b>Mimouni, D., Malisani, P., Zhu, J., & de Oliveira, W. (2024). Scenario Tree Reduction via Wasserstein Barycenters.</b><br><br>
-      Submitted in <a href="https://link.springer.com/journal/10479">Annals of Operations Research</a>.<br><br>
+      Submitted to <a href="https://link.springer.com/journal/10479">Annals of Operations Research</a>.<br><br>
       Link: <a href="https://www.researchgate.net/publication/">website</a> / <a href="/files/reduction_tree.pdf">paper PDF</a> / <a href="https://github.com/dan-mim/Nested_tree_reduction">codes</a>.
     </td>
   </tr>
