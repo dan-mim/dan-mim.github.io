@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+My resume in french <a href="/files/CV_Daniel_Mimouni.pdf">here</a>,
+My resume in english <a href="/files/CV_Daniel_Mimouni_anglais.pdf">here</a>.
+
 Contact: `daniel.mimouni@ifpen.fr`
 
 You can also look into my <a href="/publications">publications</a>, and my <a href="/teaching">teaching experience</a> in their according tabs.
 
-For now you can only acces my resume in french <a href="/files/CV_Daniel_Mimouni.pdf">here</a>
 
 <!-- <h2>Professional experience</h2>
 
