@@ -10,8 +10,11 @@ redirect_from:
 
 I am a PhD student in Applied Mathematics at Mines Paris ([CMA](https://www.cma.mines-paristech.fr/)) and IFP énergies nouvelles (Applied Mathematics Department), under the supervision of Paul Malisani, [Welington de Oliveira](https://www.oliveira.mat.br/) and Jiamin Zhu.
 
-My fields of interest primarily encompass Optimal Transport and Optimization. I am dedicated to combining theoretical research in optimization with practical applications relevant to the energy industry, as well as exploring opportunities in biomedical topics and other fields.
+Through our objective of solving optimization problems under uncertainty in energy management, we explore, leverage, and enhance techniques in optimal transport, machine learning, convex optimization, and stochastic optimization algorithms.
 
+I am dedicated to combining theoretical research in optimization with practical applications across industries, including energy, biomedical sciences, and technology-driven fields.
+<!-- I am dedicated to combining theoretical research in optimization with practical applications relevant to the energy industry, as well as exploring opportunities in biomedical topics and other fields. -->
+<!-- My fields of interest primarily encompass Optimal Transport and Optimization.  -->
 
 
 Contact: `daniel.mimouni@ifpen.fr`
