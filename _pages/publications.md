@@ -88,8 +88,8 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
 
   <tr>
     <td>
-      <b>Mimouni, D.(2023). About the Wasserstein Barycenter, April 2023.</b><br><br>
-      Presentation during the <a href="https://smf.emath.fr/evenements-smf/pgmo-days-2023">CIROQUO conference</a><br><br>
+      <b>Mimouni, D.(2023). About the Computation of Wasserstein Barycenters, April 2023.</b><br><br>
+      Presentation during the <a href="https://ciroquo.ec-lyon.fr/evenements.html">CIROQUO conference</a><br><br>
       Links: <a href="/files/CIROQUO_Wasserstein.pdf">Poster</a>.
     </td>
   </tr>
