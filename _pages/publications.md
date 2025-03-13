@@ -29,7 +29,7 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
     <td>
       <b>Currently working on Reinforcement Learning (RL) and Distributionally Robust Optimization (DRO) to tackle multi-stage stochastic optimization problems.</b><br><br>
       The goal of this work is to develop a concrete solution for an Energy Management System requiring multistage decision-making. This project will soon be integrated into IFPEN's EMS-lab@ifpen solver.
-      This work will be submitted to IEEE journal. <br><br>
+      This work will be submitted to IEEE Transaction journal. <br><br>
       Link: <a href="https://gitlab.ifpen.fr/R1150/malisanp">codes</a>.
     </td>
   </tr>
