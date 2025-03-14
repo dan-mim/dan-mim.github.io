@@ -38,6 +38,8 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
     <td>
       <b>Mimouni, D., de Oliveira, W., Sempere, G. M. (2025). On the Computation of Constrained Wasserstein Barycenters.</b><br><br>
       Submitted to Pacific Journal of Optimization for a special issue dedicated to Professor R. Tyrrell Rockafellar on the occasion of his 90th birthday.<br><br>
+      <br><br>
+      This work extends my previous method for computing the Wasserstein barycenter using the Douglas-Rachford splitting scheme. In this study, a constraint is imposed on the barycenter in the original problem, and efficient methods are developed to solve it in both convex and non-convex settings.
       Link: <a href="/files/constrained_Wasserstein.pdf">paper PDF</a> / <a href="https://github.com/dan-mim/Constrained_Wasserstein_Barycenters">codes</a>.
     </td>
   </tr>
