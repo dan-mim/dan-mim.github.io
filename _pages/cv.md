@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My resume <a href="/files/CV_Daniel_Mimouni.pdf">in french</a>, <a href="/files/CV_Daniel_Mimouni_anglais.pdf">in english</a>.
+My resume <a href="/files/CV_Daniel_Mimouni.pdf">in french</a>, <a href="/files/CV_Daniel_Mimouni_english.pdf">in english</a>.
 
 Contact: `daniel.mimouni@ifpen.fr`
 
