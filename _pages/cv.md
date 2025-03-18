@@ -14,7 +14,7 @@ My resume <a href="/files/CV_Daniel_Mimouni.pdf">in french</a>, <a href="/files/
 
 Contact: `daniel.mimouni@ifpen.fr`
 
-You can also look into my <a href="/publications">publications</a>, and my <a href="/teaching">teaching experience</a> in their according tabs.
+You can also look into my <a href="https://www.linkedin.com/in/daniel-mimouni-746987163/">LinkedIn</a>, or my <a href="/teaching">teaching experience</a>.
 
 
 <!-- <h2>Professional experience</h2>
