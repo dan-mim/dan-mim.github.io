@@ -85,7 +85,7 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
   <tr>
     <td>
       <b>Mimouni, D.(2023). Advances in Variational Analysis and Nonsmooth Optimization: Computing Wasserstein Barycenter via Operator Splitting: the Method of Averaged Marginals, July 2024.</b><br><br>
-      Presentation during the <a href="https://ismp2024.gerad.ca/">25th International Symposium on Mathematical Programming</a><br><br>
+      Presentation during the <a href="https://ismp2024.gerad.ca/">25th International Symposium on Mathematical Programming (ISMP 2025)</a><br><br>
       Link: <a href="/files/ISMP.pdf">slides</a> / Presentation (video) on demand.
     </td>
   </tr>
