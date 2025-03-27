@@ -64,13 +64,21 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
 
 
 
-## Talks/Conference contributions
+## International Conferences
 <table>
   <tr>
     <td>
-      <b>Mimouni, D.(2024). Scenarios methods in stochastic control and applications: Boosting Scenario Tree Reduction, November 2024.</b><br><br>
-      Presentation during the <a href="https://www.fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/home/pgmo-days/">The Gaspard Monge Program for Optimization, Operations Research and their interactions with Data Sciences (PGMO)</a><br><br>
-      Link: <a href="/files/PGMO_reduction_tree.pdf">slides</a> / Presentation (video) on demand.
+      <b>Mimouni, D., Malisani, P., Zhu, J., & de Oliveira, W.: Currently working on a framework for Robust Reinforcement Learning for EMS problems (2025). </b><br><br>
+      Presentation during the <a href="https://icsp2025.org/">XIIth Conference on Stochastic Programming (ICSP 2025)</a><br><br>
+      Link: <a href="">slides to come</a> / Presentation (video) on demand.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <b>Mimouni, D., Malisani, P., Zhu, J., & de Oliveira, W. (July 2025). Optimization framework to solve Energy Management System problems: Reinforcement Learning vs Stochastic Programming.</b><br><br>
+      Presentation during the <a href="https://sites.google.com/view/iccopt2025/home">2025 International Conference on Continuous Optimization (ICCOPt 2025)</a><br><br>
+      Link: <a href="">slides to come</a> / Presentation (video) on demand.
     </td>
   </tr>
 
@@ -89,6 +97,20 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
       Link: <a href="/files/Europt_wlo.pdf">slides</a>.
     </td>
   </tr>
+
+
+</table>
+
+## French Conferences
+<table>
+  <tr>
+    <td>
+      <b>Mimouni, D.(2024). Scenarios methods in stochastic control and applications: Boosting Scenario Tree Reduction, November 2024.</b><br><br>
+      Presentation during the <a href="https://www.fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/home/pgmo-days/">The Gaspard Monge Program for Optimization, Operations Research and their interactions with Data Sciences (PGMO)</a><br><br>
+      Link: <a href="/files/PGMO_reduction_tree.pdf">slides</a> / Presentation (video) on demand.
+    </td>
+  </tr>
+
 
   <tr>
     <td>
