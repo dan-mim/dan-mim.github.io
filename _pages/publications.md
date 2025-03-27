@@ -77,7 +77,7 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
   <tr>
     <td>
       <b>Mimouni, D., Malisani, P., Zhu, J., & de Oliveira, W. (July 2025). Optimization framework to solve Energy Management System problems: Reinforcement Learning vs Stochastic Programming.</b><br><br>
-      Presentation during the <a href="https://sites.google.com/view/iccopt2025/home">2025 International Conference on Continuous Optimization (ICCOPt 2025)</a><br><br>
+      Presentation during the <a href="https://sites.google.com/view/iccopt2025/home">2025 International Conference on Continuous Optimization (ICCOPT 2025)</a><br><br>
       Link: <a href="">slides to come</a> / Presentation (video) on demand.
     </td>
   </tr>
