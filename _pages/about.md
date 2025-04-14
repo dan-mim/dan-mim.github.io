@@ -20,7 +20,7 @@ I am dedicated to combining theoretical research in optimization with practical 
 Contact: `daniel.mimouni@ifpen.fr`
 
 ## News
-- [May 21st-31st, 2025] Working on OT projects at the [Optimal Transport Summer School](https://cimpa.este.ovh/) with Gabriel Peyré, Filippo Santobrogio, Guillaume Carlier.
+- [May 19th-31st, 2025] Working on OT projects at the [Optimal Transport Summer School](https://cimpa.este.ovh/) with Gabriel Peyré, Filippo Santobrogio, Guillaume Carlier.
 - <span style="font-size: 70%;">[November 19th-20th, 2024] Presentation during the [PGMO days](https://www.fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/home/pgmo-days/), the annual conference of the Optimization, OR, and Data Science program of the FMJH [Fondation Mathématiques Jacques Hadamard](https://smf.emath.fr/evenements-smf/pgmo-days-2023). I present my lattest works about a new approach for Scenario Tree Reduction via Wasserstein Barycenters.</span><br>
 - <span style="font-size: 70%;">[July 21st-28th, 2024] I take part in the  [25th International Symposium on Mathematical Programming](https://ismp2024.gerad.ca/) in Montreal, Canada, where I present my work on a new approach to efficiently compute the Wasserstein Barycenter for discrete probability measures (balanced and unbalanced and with extending settings). I present in the session [Advances in Variational Analysis and Nonsmooth Optimization](https://ismp2024.gerad.ca/schedule/TA/112).</span><br>
 - <span style="font-size: 70%;">[April, 2024] I visit the Centre of Applied Mathematics in Sophia Antipolis to work closely with [Welington de Oliveira](https://www.oliveira.mat.br/) and Gregorio Martinez about non-convex and non-smooth extensions within the Douglas-Rachford method framework.</span> <br>
