@@ -47,7 +47,7 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
     <td>
       <b>Mimouni, D., Malisani, P., Zhu, J., & de Oliveira, W. (2024). Scenario Tree Reduction via Wasserstein Barycenters.</b><br><br>
       Submitted to <a href="https://link.springer.com/journal/10479">Annals of Operations Research</a>.<br><br>
-      The method proposed by Kovacevic and Pichler is the most accurate for reducing scenario trees, but its slow execution has limited its practical use. In this work, we show that the method can be significantly accelerated by reformulating one of its steps as an optimal transport problem, solvable with state-of-the-art algorithms. The resulting algorithm is nearly ten times faster, making it suitable for industrial applications.<br><br>
+      The method, based on the nested distance, proposed by Kovacevic and Pichler is the most accurate for reducing scenario trees, but its slow execution has limited its practical use. In this work, we show that the method can be significantly accelerated by reformulating one of its steps as an optimal transport problem, solvable with state-of-the-art algorithms. The resulting algorithm is nearly ten times faster, making it suitable for industrial applications.<br><br>
       Link: <a href="https://www.researchgate.net/publication/">website</a> / <a href="/files/reduction_tree.pdf">paper PDF</a> / <a href="https://github.com/dan-mim/Nested_tree_reduction">codes</a>.
     </td>
   </tr>
