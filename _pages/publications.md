@@ -68,7 +68,7 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
 <table>
   <tr>
     <td>
-      <b>Mimouni, D., Malisani, P., Zhu, J., & de Oliveira, W.: Currently working on a framework for Robust Reinforcement Learning for EMS problems (2025). </b><br><br>
+      <b>Mimouni, D., Malisani, P., Zhu, J., & de Oliveira, W.: How Optimal Transport can make multi-stage decisions sharper : Boosting scenario tree algorithms (2025). </b><br><br>
       Presentation during the <a href="https://icsp2025.org/">XIIth Conference on Stochastic Programming (ICSP 2025)</a><br><br>
       Link: <a href="">slides to come</a> / Presentation (video) on demand.
     </td>
