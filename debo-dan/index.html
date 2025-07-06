@@ -32,21 +32,35 @@
       font-size: 40px;
       margin-bottom: 60px;
     }
+    .iframe-wrapper {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    z-index: 1000;
+    box-shadow: 0 0 10px rgba(0,0,0,0.6);
+    border-radius: 8px;
+    overflow: hidden;
+  }
 
     @keyframes fadeIn {
       to {
         opacity: 1;
       }
     }
+
   </style>
 </head>
 <body>
   <h1>Séjour Débo et Dan</h1>
   <h2>Double D, Double Danger</h2>
+  <div class="iframe-wrapper">
   <iframe 
+    title="Message, conseil, prank pour les 2D"
     src="https://docs.google.com/forms/d/e/1FAIpQLSeMtuYyceIHfJhvSn01K7iGq02tpCyvWmKVu17AHs3lV66Z9Q/viewform?embedded=true"
-    width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0">
-    Laissez un mot pour les dangereux de Bordeaux
+    width="300" height="200" frameborder="0" marginheight="0" marginwidth="0">
+    Laissez un mot pour les Dangers de Bordeaux
   </iframe>
+</div>
+
 </body>
 </html>
