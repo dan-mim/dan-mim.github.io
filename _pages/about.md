@@ -19,6 +19,25 @@ I am dedicated to combining theoretical research in optimization with practical 
 
 Contact: `daniel.mimouni@ifpen.fr`
 
+## 🔧 Open-Source Projects
+
+I am committed to reproducible research and open science. All the algorithms developed during my PhD are released as open-source Python packages, each carefully structured, documented, and benchmarked. These repositories reflect both the theoretical depth of my work and its practical implementation in real-world applications such as energy management.
+
+- **[EMS-RL-DRO](https://github.com/dan-mim/EMS-RL-DRO)**  
+  A full-stack implementation for solving multi-stage energy management problems using Reinforcement Learning and Distributionally Robust Optimization. The project includes scenario generation, benchmarking environments, and is being integrated into IFPEN’s EMS-Lab solver.
+
+- **[Computing-Wasserstein-Barycenters-MAM](https://github.com/dan-mim/Computing-Wasserstein-Barycenters-MAM)**  
+  Implementation of the MAM algorithm (published in SIMODS 2024), based on Douglas-Rachford operator splitting. Computes exact Wasserstein barycenters efficiently for both fixed and free supports, in balanced and unbalanced settings.
+
+- **[Constrained-Optimal-Transport](https://github.com/dan-mim/Constrained-Optimal-Transport)**  
+  Extension of the above to constrained barycenter problems (PJOPT 2025). The repo includes methods for convex and non-convex constraints, and illustrates how optimization structure can be preserved in the transport formulation.
+
+- **[Nested_tree_reduction](https://github.com/dan-mim/Nested_tree_reduction)**  
+  Codebase implementing a 10× faster version of the nested Wasserstein-based scenario tree reduction algorithm (submitted to Annals of OR). Offers modular tools to apply it in stochastic optimization workflows.
+
+Each repository is designed to be plug-and-play, with clean APIs, example notebooks, and thorough documentation. They are actively maintained and open to contributions.
+
+
 ## News
 - [May 19th-31st, 2025] Working on optimisation and Optimal Transport projects at the [Optimal Transport Summer School](https://cimpa.este.ovh/) with Gabriel Peyré, Filippo Santobrogio, Guillaume Carlier, Jalal Fadili, Emilie Chouzenoux and others.
 - <span style="font-size: 70%;">[November 19th-20th, 2024] Presentation during the [PGMO days](https://www.fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/home/pgmo-days/), the annual conference of the Optimization, OR, and Data Science program of the FMJH [Fondation Mathématiques Jacques Hadamard](https://smf.emath.fr/evenements-smf/pgmo-days-2023). I present my lattest works about a new approach for Scenario Tree Reduction via Wasserstein Barycenters.</span><br>

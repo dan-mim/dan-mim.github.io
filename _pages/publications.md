@@ -30,16 +30,16 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
       <b>Currently working on Reinforcement Learning (RL) and Distributionally Robust Optimization (DRO) to tackle multi-stage stochastic optimization problems.</b><br><br>
       This work will be submitted to IEEE Transaction journal. <br><br>
       The goal of this work is to develop a concrete solution for an Energy Management System requiring multistage decision-making. This project will soon be integrated into IFPEN's EMS-lab@ifpen solver.<br><br>
-      Link: <a href="https://gitlab.ifpen.fr/R1150/malisanp">codes</a>.
+      Link: <a href="https://github.com/dan-mim/EMS-RL-DRO">github</a>.
     </td>
   </tr>
 
   <tr>
     <td>
       <b>Mimouni, D., de Oliveira, W., Sempere, G. M. (2025). On the Computation of Constrained Wasserstein Barycenters.</b><br><br>
-      Submitted to Pacific Journal of Optimization for a special issue dedicated to Professor R. Tyrrell Rockafellar on the occasion of his 90th birthday.<br><br>
+      Accepted in Pacific Journal of Optimization for a special issue dedicated to Professor R. Tyrrell Rockafellar on the occasion of his 90th birthday.<br><br>
       This work extends my previous method for computing the Wasserstein barycenter using the Douglas-Rachford splitting scheme. In this study, a constraint is imposed on the barycenter in the original problem, and efficient methods are developed to solve it in both convex and non-convex settings.<br><br> 
-      Link: <a href="/files/constrained_Wasserstein.pdf">paper PDF</a> / <a href="https://github.com/dan-mim/Constrained_Wasserstein_Barycenters">codes</a>.
+      Link: <a href="/files/constrained_Wasserstein.pdf">paper PDF</a> / <a href="https://github.com/dan-mim/Constrained-Optimal-Transport">github</a>.
     </td>
   </tr>
 
@@ -48,7 +48,7 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
       <b>Mimouni, D., Malisani, P., Zhu, J., & de Oliveira, W. (2024). Scenario Tree Reduction via Wasserstein Barycenters.</b><br><br>
       Submitted to <a href="https://link.springer.com/journal/10479">Annals of Operations Research</a>.<br><br>
       The method, based on the nested distance, proposed by Kovacevic and Pichler is the most accurate for reducing scenario trees, but its slow execution has limited its practical use. In this work, we show that the method can be significantly accelerated by reformulating one of its steps as an optimal transport problem, solvable with state-of-the-art algorithms. The resulting algorithm is nearly ten times faster, making it suitable for industrial applications.<br><br>
-      Link: <a href="https://www.researchgate.net/publication/">website</a> / <a href="/files/reduction_tree.pdf">paper PDF</a> / <a href="https://github.com/dan-mim/Nested_tree_reduction">codes</a>.
+      Link: <a href="https://www.researchgate.net/publication/">website</a> / <a href="/files/reduction_tree.pdf">paper PDF</a> / <a href="https://github.com/dan-mim/Nested_tree_reduction">github</a>, <a href="https://github.com/dan-mim/wasserstein-morphing-mamGAN">also visit</a>.
     </td>
   </tr>
   
@@ -57,7 +57,7 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
       <b>Mimouni, D., Malisani, P., Zhu, J., & de Oliveira, W. (2024). Computing Wasserstein Barycenter via operator splitting: the method of averaged marginals. DOI: 10.1137/23M1584228.</b><br><br>
       In <a href="https://epubs.siam.org/doi/abs/10.1137/23M1584228">SIAM Journal on Mathematics of Data Science (SIMODS)</a>. (We have made, using AI, a song describing the method (MAM). You may check it <a href="/files/MAM.mp3">here</a>.)<br><br>
       This work introduces a new algorithm for computing exact Wasserstein barycenters — for both free and fixed support — in balanced and unbalanced settings. The approach leverages the Douglas-Rachford operator splitting scheme, demonstrating that the iterative steps are computationally efficient. <br><br>
-      Link: <a href="https://epubs.siam.org/doi/abs/10.1137/23M1584228">Paper</a> / <a href="https://www.researchgate.net/publication/373838665_Computing_Wasserstein_Barycenter_via_operator_splitting_the_method_of_averaged_marginals">ResearchGate</a> / <a href="/files/Computing_Wasserstein_Barycenters_via_operator_splitting.pdf">paper PDF</a> / <a href="https://ifpen-gitlab.appcollaboratif.fr/detocs/mam_wb">codes</a>.
+      Link: <a href="https://epubs.siam.org/doi/abs/10.1137/23M1584228">Paper</a> / <a href="https://www.researchgate.net/publication/373838665_Computing_Wasserstein_Barycenter_via_operator_splitting_the_method_of_averaged_marginals">ResearchGate</a> / <a href="/files/Computing_Wasserstein_Barycenters_via_operator_splitting.pdf">paper PDF</a> / <a href="https://github.com/dan-mim/Computing-Wasserstein-Barycenters-MAM">github</a>.
     </td>
   </tr>
 </table>
