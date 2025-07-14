@@ -23,17 +23,31 @@ Contact: `daniel.mimouni@ifpen.fr`
 
 I am committed to reproducible research and open science. All the algorithms developed during my PhD are released as open-source Python packages, each carefully structured, documented, and benchmarked. These repositories reflect both the theoretical depth of my work and its practical implementation in real-world applications such as energy management.
 
-- **[EMS-RL-DRO](https://github.com/dan-mim/EMS-RL-DRO)**  
-  A full-stack implementation for solving multi-stage energy management problems using Reinforcement Learning and Distributionally Robust Optimization. The project includes scenario generation, benchmarking environments, and is being integrated into IFPEN’s EMS-Lab solver.
-
 - **[Computing-Wasserstein-Barycenters-MAM](https://github.com/dan-mim/Computing-Wasserstein-Barycenters-MAM)**  
   Implementation of the MAM algorithm (published in SIMODS 2024), based on Douglas-Rachford operator splitting. Computes exact Wasserstein barycenters efficiently for both fixed and free supports, in balanced and unbalanced settings.
+  <p align="center">
+  <a href="https://github.com/dan-mim/Computing-Wasserstein-Barycenters-MAM">
+        <img src="/files/MAM.PNG" alt="plot" width="700"/>
+  </a>
+  </p>
 
 - **[Constrained-Optimal-Transport](https://github.com/dan-mim/Constrained-Optimal-Transport)**  
   Extension of the above to constrained barycenter problems (PJOPT 2025). The repo includes methods for convex and non-convex constraints, and illustrates how optimization structure can be preserved in the transport formulation.
+  <p align="center">
+  <a href="https://github.com/dan-mim/Constrained-Optimal-Transport">
+        <img src="/files/mamGAN.PNG" alt="plot" width="700"/>
+  </a>
+  </p>
 
 - **[Nested_tree_reduction](https://github.com/dan-mim/Nested_tree_reduction)**  
   Codebase implementing a 10× faster version of the nested Wasserstein-based scenario tree reduction algorithm (submitted to Annals of OR). Offers modular tools to apply it in stochastic optimization workflows.
+  <p align="center">
+  <a href="https://github.com/dan-mim/Nested_tree_reduction">
+        <img src="/files/KPalgo.PNG" alt="plot" width="700"/>
+  </a></p>
+
+- **[EMS-RL-DRO](https://github.com/dan-mim/EMS-RL-DRO)**  
+  A full-stack implementation for solving multi-stage energy management problems using Reinforcement Learning and Distributionally Robust Optimization. The project includes scenario generation, benchmarking environments, and is being integrated into IFPEN’s EMS-Lab solver.
 
 Each repository is designed to be plug-and-play, with clean APIs, example notebooks, and thorough documentation. They are actively maintained and open to contributions.
 
