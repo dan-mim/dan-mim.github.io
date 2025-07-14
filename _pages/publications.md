@@ -7,32 +7,35 @@ author_profile: true
 
 <!-- You can also find my articles on <a href="https://scholar.google.com/citations?user=WUwMZtIAAAAJ&hl=fr">my Google Scholar profile</a>. -->
 
-<!-- <details>
-<summary>Click here for an overview of my PhD objectives achived so far.</summary>
+<details>
+<summary>Click here for an overview of my PhD research.</summary>
 <hr style="height: 3px; background-color: black;">
 
-Managing uncertainties in multistage stochastic optimization poses a substantial challenge, necessitating a  a complex trade-off between, on the one hand, the representation of the uncertainties (i.e. the number of scenarios) and, on the other hand, the computational tractability. Scenario reduction methods, pioneered in 2003 by Dupavcova et al., offer a promising outlooks for achieving a satisfactory trade-off. However, the choice of distance metric for reducing scenario trees significantly influences solution quality. While clustering techniques have been prevalent, recent research has turned to Wasserstein-based methods to minimize transport distance between probabilty measures. <br><br>
+Through my objective of solving optimization problems under uncertainty in energy management, I explore, leverage, and enhance techniques in \textbf{optimal transport}, **machine learning** (mostly **RL**), **convex optimization**, and **stochastic optimization algorithms**.
 
-My work presents a comprehensive investigation of the use of Wasserstein distance for scenario tree reduction in the context of multistage stochastic optimization. The Wasserstein barycenter (WB) serves as a tool for summarizing sets of probabilities, it appears in a number of disciplines, including applied probability, clustering and image processing. Numerically efficient methods to computing the WB rely on entropic regularization functions, resulting in approximate solutions due to limitations in solver capabilities. In contrast, this research introduces an exact approach based on the Douglas-Rachford splitting method directly applied to the WB linear optimization problem. The proposed solving algorithm achieves a trade-off between the numerical efficiency of regularization-based methods and the precision of exact LP solvers.<br><br>
+I have thoroughly worked on the **Wasserstein barycenter** problem and proposed several **extensions** to the original formulation. I developed state-of-the-art algorithms to solve these problems and established rigorous mathematical guarantees for each of them.
 
- Kovacevic and Pichler develop a reduction algorithm based on nested Wasserstein distance. This algorithm consists of computing a significant amount of Wasserstein barycenters. The second contribution of this work is to implement dedicated WB computation algorithms, including the Iterative Bregmann Projection method (IBP), Sinkhorn distance, and the newly introduced Method of Averaged Marginals (MAM) in the algorithm proposed in their work, Kovacevic and Pichler, to accelerate its performances.<br><br>
+Additionally, I tackled **dimension reduction** in the context of the nested distance—a generalization of the Wasserstein distance—to enable the application of classical methods to large-scale multistage problems.
 
-By proposing efficient algorithms for computing Wasserstein barycenters and reducing scenario trees, we address critical challenges in managing uncertainties in multistage stochastic optimization. Looking ahead, future research directions include further exploration of the interplay between optimization algorithms and stochastic processes to refine scenario tree reduction methodologies and enhance the applicability of Wasserstein-based methods in complex optimization problems. 
+Finally, I investigated the integration of reinforcement learning and stochastic optimization in **a real-world industrial setting**. 
+
+All of my research is supported by [open-source code](https://github.com/dan-mim), and several contributions have been incorporated into industrial software.
 
 <hr style="height: 3px; background-color: black;">
-</details> -->
+</details>
 
 ## Journal papers
 
 <table>
   <tr>
     <td>
-      <b>Currently working on Reinforcement Learning (RL) and Distributionally Robust Optimization (DRO) to tackle multi-stage stochastic optimization problems.</b><br><br>
-      This work will be submitted to IEEE Transaction journal. <br><br>
-      The goal of this work is to develop a concrete solution for an Energy Management System requiring multistage decision-making. This project will soon be integrated into IFPEN's EMS-lab@ifpen solver.<br><br>
-      Link: <a href="https://github.com/dan-mim/EMS-RL-DRO">github</a>.
+      <b>Mimouni, D., Malisani, P., Zhu, J., & de Oliveira, W. (2024). Computing Wasserstein Barycenter via operator splitting: the method of averaged marginals. DOI: 10.1137/23M1584228.</b><br><br>
+      In <a href="https://epubs.siam.org/doi/abs/10.1137/23M1584228">SIAM Journal on Mathematics of Data Science (SIMODS)</a>. (We have made, using AI, a song describing the method (MAM). You may check it <a href="/files/MAM.mp3">here</a>.)<br><br>
+      This work introduces a new algorithm for computing exact Wasserstein barycenters — for both free and fixed support — in balanced and unbalanced settings. The approach leverages the Douglas-Rachford operator splitting scheme, demonstrating that the iterative steps are computationally efficient. <br><br>
+      Link: <a href="https://epubs.siam.org/doi/abs/10.1137/23M1584228">Paper</a> / <a href="https://www.researchgate.net/publication/373838665_Computing_Wasserstein_Barycenter_via_operator_splitting_the_method_of_averaged_marginals">ResearchGate</a> / <a href="/files/Computing_Wasserstein_Barycenters_via_operator_splitting.pdf">paper PDF</a> / <a href="https://github.com/dan-mim/Computing-Wasserstein-Barycenters-MAM">github</a>.
     </td>
   </tr>
+
 
   <tr>
     <td>
@@ -54,12 +57,13 @@ By proposing efficient algorithms for computing Wasserstein barycenters and redu
   
   <tr>
     <td>
-      <b>Mimouni, D., Malisani, P., Zhu, J., & de Oliveira, W. (2024). Computing Wasserstein Barycenter via operator splitting: the method of averaged marginals. DOI: 10.1137/23M1584228.</b><br><br>
-      In <a href="https://epubs.siam.org/doi/abs/10.1137/23M1584228">SIAM Journal on Mathematics of Data Science (SIMODS)</a>. (We have made, using AI, a song describing the method (MAM). You may check it <a href="/files/MAM.mp3">here</a>.)<br><br>
-      This work introduces a new algorithm for computing exact Wasserstein barycenters — for both free and fixed support — in balanced and unbalanced settings. The approach leverages the Douglas-Rachford operator splitting scheme, demonstrating that the iterative steps are computationally efficient. <br><br>
-      Link: <a href="https://epubs.siam.org/doi/abs/10.1137/23M1584228">Paper</a> / <a href="https://www.researchgate.net/publication/373838665_Computing_Wasserstein_Barycenter_via_operator_splitting_the_method_of_averaged_marginals">ResearchGate</a> / <a href="/files/Computing_Wasserstein_Barycenters_via_operator_splitting.pdf">paper PDF</a> / <a href="https://github.com/dan-mim/Computing-Wasserstein-Barycenters-MAM">github</a>.
+      <b>Currently working on Reinforcement Learning (RL) and Distributionally Robust Optimization (DRO) to tackle multi-stage stochastic optimization problems.</b><br><br>
+      This work will be submitted to IEEE Transaction journal. <br><br>
+      The goal of this work is to develop a concrete solution for an Energy Management System requiring multistage decision-making. This project will soon be integrated into IFPEN's EMS-lab@ifpen solver.<br><br>
+      Link: <a href="https://github.com/dan-mim/EMS-RL-DRO">github</a>.
     </td>
   </tr>
+  
 </table>
 
 
