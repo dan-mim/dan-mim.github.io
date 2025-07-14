@@ -11,13 +11,13 @@ author_profile: true
 <summary>Click here for an overview of my PhD research.</summary>
 <hr style="height: 3px; background-color: black;">
 
-Through my objective of solving optimization problems under uncertainty in energy management, I explore, leverage, and enhance techniques in <strong>optimal transport</strong>, <strong>machine learning</strong> (mostly <strong>RL</strong>), <strong>convex optimization</strong>, and <strong>stochastic optimization algorithms</strong>.
+Through my objective of solving optimization problems under uncertainty in energy management, I explore, leverage, and enhance techniques in <strong>optimal transport</strong>, <strong>machine learning</strong> (mostly <strong>RL</strong>), <strong>convex optimization</strong>, and <strong>stochastic optimization algorithms</strong>.<br><br>
 
-I have thoroughly worked on the <strong>Wasserstein barycenter</strong> problem and proposed several <strong>extensions</strong> to the original formulation. I developed state-of-the-art algorithms to solve these problems and established rigorous mathematical guarantees for each of them.
+I have thoroughly worked on the <strong>Wasserstein barycenter</strong> problem and proposed several <strong>extensions</strong> to the original formulation. I developed state-of-the-art algorithms to solve these problems and established rigorous mathematical guarantees for each of them.<br><br>
 
-Additionally, I tackled <strong>dimension reduction</strong> in the context of the nested distance—a generalization of the Wasserstein distance—to enable the application of classical methods to large-scale multistage problems.
+Additionally, I tackled <strong>dimension reduction</strong> in the context of the nested distance—a generalization of the Wasserstein distance—to enable the application of classical methods to large-scale multistage problems.<br><br>
 
-Finally, I investigated the integration of reinforcement learning and stochastic optimization in <strong>a real-world industrial setting</strong>. 
+Finally, I investigated the integration of reinforcement learning and stochastic optimization in <strong>a real-world industrial setting</strong>. <br><br>
 
 All of my research is supported by <a href="https://github.com/dan-mim">open-source code</a>, and several contributions have been incorporated into industrial software.
 
