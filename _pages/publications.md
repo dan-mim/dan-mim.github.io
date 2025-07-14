@@ -11,18 +11,19 @@ author_profile: true
 <summary>Click here for an overview of my PhD research.</summary>
 <hr style="height: 3px; background-color: black;">
 
-Through my objective of solving optimization problems under uncertainty in energy management, I explore, leverage, and enhance techniques in \textbf{optimal transport}, **machine learning** (mostly **RL**), **convex optimization**, and **stochastic optimization algorithms**.
+Through my objective of solving optimization problems under uncertainty in energy management, I explore, leverage, and enhance techniques in <strong>optimal transport</strong>, <strong>machine learning</strong> (mostly <strong>RL</strong>), <strong>convex optimization</strong>, and <strong>stochastic optimization algorithms</strong>.
 
-I have thoroughly worked on the **Wasserstein barycenter** problem and proposed several **extensions** to the original formulation. I developed state-of-the-art algorithms to solve these problems and established rigorous mathematical guarantees for each of them.
+I have thoroughly worked on the <strong>Wasserstein barycenter</strong> problem and proposed several <strong>extensions</strong> to the original formulation. I developed state-of-the-art algorithms to solve these problems and established rigorous mathematical guarantees for each of them.
 
-Additionally, I tackled **dimension reduction** in the context of the nested distance—a generalization of the Wasserstein distance—to enable the application of classical methods to large-scale multistage problems.
+Additionally, I tackled <strong>dimension reduction</strong> in the context of the nested distance—a generalization of the Wasserstein distance—to enable the application of classical methods to large-scale multistage problems.
 
-Finally, I investigated the integration of reinforcement learning and stochastic optimization in **a real-world industrial setting**. 
+Finally, I investigated the integration of reinforcement learning and stochastic optimization in <strong>a real-world industrial setting</strong>. 
 
-All of my research is supported by [open-source code](https://github.com/dan-mim), and several contributions have been incorporated into industrial software.
+All of my research is supported by <a href="https://github.com/dan-mim">open-source code</a>, and several contributions have been incorporated into industrial software.
 
 <hr style="height: 3px; background-color: black;">
 </details>
+
 
 ## Journal papers
 
@@ -33,6 +34,8 @@ All of my research is supported by [open-source code](https://github.com/dan-mim
       In <a href="https://epubs.siam.org/doi/abs/10.1137/23M1584228">SIAM Journal on Mathematics of Data Science (SIMODS)</a>. (We have made, using AI, a song describing the method (MAM). You may check it <a href="/files/MAM.mp3">here</a>.)<br><br>
       This work introduces a new algorithm for computing exact Wasserstein barycenters — for both free and fixed support — in balanced and unbalanced settings. The approach leverages the Douglas-Rachford operator splitting scheme, demonstrating that the iterative steps are computationally efficient. <br><br>
       Link: <a href="https://epubs.siam.org/doi/abs/10.1137/23M1584228">Paper</a> / <a href="https://www.researchgate.net/publication/373838665_Computing_Wasserstein_Barycenter_via_operator_splitting_the_method_of_averaged_marginals">ResearchGate</a> / <a href="/files/Computing_Wasserstein_Barycenters_via_operator_splitting.pdf">paper PDF</a> / <a href="https://github.com/dan-mim/Computing-Wasserstein-Barycenters-MAM">github</a>.
+      <img src="files/MAM.PNG" alt="plot" width="500"/>
+
     </td>
   </tr>
 
@@ -43,6 +46,7 @@ All of my research is supported by [open-source code](https://github.com/dan-mim
       Accepted in Pacific Journal of Optimization for a special issue dedicated to Professor R. Tyrrell Rockafellar on the occasion of his 90th birthday.<br><br>
       This work extends my previous method for computing the Wasserstein barycenter using the Douglas-Rachford splitting scheme. In this study, a constraint is imposed on the barycenter in the original problem, and efficient methods are developed to solve it in both convex and non-convex settings.<br><br> 
       Link: <a href="/files/constrained_Wasserstein.pdf">paper PDF</a> / <a href="https://github.com/dan-mim/Constrained-Optimal-Transport">github</a>.
+      <img src="files/mamGAN.PNG" alt="plot" width="500"/>
     </td>
   </tr>
 
@@ -52,6 +56,7 @@ All of my research is supported by [open-source code](https://github.com/dan-mim
       Submitted to <a href="https://link.springer.com/journal/10479">Annals of Operations Research</a>.<br><br>
       The method, based on the nested distance, proposed by Kovacevic and Pichler is the most accurate for reducing scenario trees, but its slow execution has limited its practical use. In this work, we show that the method can be significantly accelerated by reformulating one of its steps as an optimal transport problem, solvable with state-of-the-art algorithms. The resulting algorithm is nearly ten times faster, making it suitable for industrial applications.<br><br>
       Link: <a href="https://www.researchgate.net/publication/">website</a> / <a href="/files/reduction_tree.pdf">paper PDF</a> / <a href="https://github.com/dan-mim/Nested_tree_reduction">github</a>, <a href="https://github.com/dan-mim/wasserstein-morphing-mamGAN">also visit</a>.
+      <img src="files/KPalgo.PNG" alt="plot" width="500"/>
     </td>
   </tr>
   
@@ -63,7 +68,7 @@ All of my research is supported by [open-source code](https://github.com/dan-mim
       Link: <a href="https://github.com/dan-mim/EMS-RL-DRO">github</a>.
     </td>
   </tr>
-  
+
 </table>
 
 
