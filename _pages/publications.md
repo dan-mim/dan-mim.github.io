@@ -47,7 +47,7 @@ All of my research is supported by <a href="https://github.com/dan-mim">open-sou
       <b>Mimouni, D., de Oliveira, W., Sempere, G. M. (2025). On the Computation of Constrained Wasserstein Barycenters.</b><br><br>
       Accepted in Pacific Journal of Optimization for a special issue dedicated to Professor R. Tyrrell Rockafellar on the occasion of his 90th birthday.<br><br>
       This work extends my previous method for computing the Wasserstein barycenter using the Douglas-Rachford splitting scheme. In this study, a constraint is imposed on the barycenter in the original problem, and efficient methods are developed to solve it in both convex and non-convex settings.<br><br> 
-      Link: <a href="/files/constrained_Wasserstein.pdf">paper PDF</a> / <a href="https://github.com/dan-mim/Constrained-Optimal-Transport">github</a>.
+      Link: <a href="/files/constrained_Wasserstein.pdf">paper PDF</a> / <a href="https://github.com/dan-mim/Constrained-Optimal-Transport">github</a>,  <a href="https://github.com/dan-mim/wasserstein-morphing-mamGAN">also visit</a>.
       <a href="https://github.com/dan-mim/Constrained-Optimal-Transport">
         <img src="/files/mamGAN.PNG" alt="plot" width="700"/>
       </a>
@@ -59,8 +59,8 @@ All of my research is supported by <a href="https://github.com/dan-mim">open-sou
       <b>Mimouni, D., Malisani, P., Zhu, J., & de Oliveira, W. (2024). Scenario Tree Reduction via Wasserstein Barycenters.</b><br><br>
       Submitted to <a href="https://link.springer.com/journal/10479">Annals of Operations Research</a>.<br><br>
       The method, based on the nested distance, proposed by Kovacevic and Pichler is the most accurate for reducing scenario trees, but its slow execution has limited its practical use. In this work, we show that the method can be significantly accelerated by reformulating one of its steps as an optimal transport problem, solvable with state-of-the-art algorithms. The resulting algorithm is nearly ten times faster, making it suitable for industrial applications.<br><br>
-      Link: <a href="https://www.researchgate.net/publication/">website</a> / <a href="/files/reduction_tree.pdf">paper PDF</a> / <a href="https://github.com/dan-mim/Nested_tree_reduction">github</a>, <a href="https://github.com/dan-mim/wasserstein-morphing-mamGAN">also visit</a>.
-      <a href="https://github.com/dan-mim/wasserstein-morphing-mamGAN">
+      Link: <a href="https://www.researchgate.net/publication/">website</a> / <a href="/files/reduction_tree.pdf">paper PDF</a> / <a href="https://github.com/dan-mim/Nested_tree_reduction">github</a>.
+      <a href="https://github.com/dan-mim/Nested_tree_reduction">
         <img src="/files/KPalgo.PNG" alt="plot" width="700"/>
       </a>
     </td>
