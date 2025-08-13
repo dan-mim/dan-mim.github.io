@@ -53,7 +53,7 @@ Each repository is designed to be plug-and-play, with clean APIs, example notebo
 
 
 ## News
-- [July 26th - August 1st, 2025] I present methods a boosting method to reduce scenario trees using Optimal Transport at [ICSP: Int. Conference on Stochastic Optimization](https://icsp2025.org/).
+- [July 26th - August 1st, 2025] I present a boosting method to reduce scenario trees using Optimal Transport at [ICSP: Int. Conference on Stochastic Optimization](https://icsp2025.org/).
 - [July 18th-25th, 2025] I present robust strategies for Energy Management Systems including RL and Distributional Robust Optimization in multistage at [ICCOPT: Int. Conference on Convex Optimization](https://events.usc.edu/esvp/iccopt2025/).
 - [May 19th-31st, 2025] Working on optimisation and Optimal Transport projects at the [Optimal Transport Summer School](https://cimpa.este.ovh/) with Gabriel Peyré, Filippo Santobrogio, Guillaume Carlier, Jalal Fadili, Emilie Chouzenoux and others.
 - <span style="font-size: 70%;">[November 19th-20th, 2024] Presentation during the [PGMO days](https://www.fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/home/pgmo-days/), the annual conference of the Optimization, OR, and Data Science program of the FMJH [Fondation Mathématiques Jacques Hadamard](https://smf.emath.fr/evenements-smf/pgmo-days-2023). I present my lattest works about a new approach for Scenario Tree Reduction via Wasserstein Barycenters.</span><br>
