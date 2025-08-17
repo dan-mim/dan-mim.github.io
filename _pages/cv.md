@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-My resume <a href="/files/CV_Daniel_Mimouni.pdf">in french</a>, <a href="/files/CV_Daniel_Mimouni_english.pdf">in english</a>.
+<a href="/files/academic_resume.pdf">My academic resume</a>.
 
 Contact: `daniel.mimouni@ifpen.fr`
 
@@ -170,3 +170,4 @@ You can also look into my <a href="https://www.linkedin.com/in/daniel-mimouni-74
     </td>
   </tr>
 </table> -->
+
