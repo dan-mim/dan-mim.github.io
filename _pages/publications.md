@@ -72,6 +72,9 @@ All of my research is supported by <a href="https://github.com/dan-mim">open-sou
       This work will be submitted to IEEE Transaction journal. <br><br>
       The goal of this work is to develop a concrete solution for an Energy Management System requiring multistage decision-making. This project will soon be integrated into IFPEN's EMS-lab@ifpen solver.<br><br>
       Link: <a href="https://github.com/dan-mim/EMS-RL-DRO">github</a>.
+      <a href="https://github.com/dan-mim/EMS-RL-DRO">
+        <img src="/files/system.PNG" alt="plot" width="500"/>
+      </a>
     </td>
   </tr>
 

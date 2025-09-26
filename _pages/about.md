@@ -50,7 +50,7 @@ I am committed to reproducible research and open science. All the algorithms dev
   A full-stack implementation for solving multi-stage energy management problems using Reinforcement Learning and Distributionally Robust Optimization. The project includes scenario generation, benchmarking environments, and is being integrated into IFPEN’s EMS-Lab solver.
   <p align="center">
   <a href="https://github.com/dan-mim/EMS-RL-DRO">
-        <img src="/files/system.PNG" alt="plot" width="700"/>
+        <img src="/files/system.PNG" alt="plot" width="500"/>
   </a></p>
 
 Each repository is designed to be plug-and-play, with clean APIs, example notebooks, and thorough documentation. They are actively maintained and open to contributions.
