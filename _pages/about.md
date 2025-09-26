@@ -17,7 +17,7 @@ I am dedicated to combining theoretical research in optimization with practical 
 <!-- My fields of interest primarily encompass Optimal Transport and Optimization.  -->
 
 
-Contact: `daniel.mimouni@ifpen.fr`
+Contact: `daniel dot mimouni1 at gmail.com`
 
 ## 🔧 Open-Source Projects
 
