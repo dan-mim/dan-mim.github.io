@@ -12,9 +12,9 @@ redirect_from:
 
 <a href="/files/academic_resume.pdf">My academic resume</a>.
 
-Contact: `daniel.mimouni@ifpen.fr`
+Contact: `daniel dot mimouni1 at gmail.com`
 
-You can also look into my <a href="https://www.linkedin.com/in/daniel-mimouni-746987163/">LinkedIn</a>, or my <a href="/teaching">teaching experience</a>.
+You can also look into my <a href="https://www.linkedin.com/in/daniel-mimouni-746987163/">LinkedIn</a>.
 
 
 <!-- <h2>Professional experience</h2>
