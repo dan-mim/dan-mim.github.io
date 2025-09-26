@@ -48,14 +48,19 @@ I am committed to reproducible research and open science. All the algorithms dev
 
 - **[EMS-RL-DRO](https://github.com/dan-mim/EMS-RL-DRO)**  
   A full-stack implementation for solving multi-stage energy management problems using Reinforcement Learning and Distributionally Robust Optimization. The project includes scenario generation, benchmarking environments, and is being integrated into IFPEN’s EMS-Lab solver.
+  <p align="center">
+  <a href="https://github.com/dan-mim/EMS-RL-DRO">
+        <img src="/files/system.PNG" alt="plot" width="700"/>
+  </a></p>
 
 Each repository is designed to be plug-and-play, with clean APIs, example notebooks, and thorough documentation. They are actively maintained and open to contributions.
 
 
 ## News
-- [July 26th - August 1st, 2025] I present a boosting method to reduce scenario trees using Optimal Transport at [ICSP: Int. Conference on Stochastic Optimization](https://icsp2025.org/) in Paris.
-- [July 18th-25th, 2025] I present robust strategies for Energy Management Systems including RL and Distributional Robust Optimization in multistage at [ICCOPT: Int. Conference on Convex Optimization](https://events.usc.edu/esvp/iccopt2025/) in Los Angeles.
-- [May 19th-31st, 2025] Working on optimisation and Optimal Transport projects at the [Optimal Transport Summer School](https://cimpa.este.ovh/) with Gabriel Peyré, Filippo Santobrogio, Guillaume Carlier, Jalal Fadili, Emilie Chouzenoux and others.
+- [October 24th, 2025] I defend my thesis at [Mines Paris (VI)](https://maps.app.goo.gl/xtDMMv5oLg4CBeJTA): [Multistage Stochastic Optimization: From Optimal Transport-Based Scenario Tree Reduction to Robust Optimization](https://theses.fr/s356212). Jury: Prof. Alois PICHLER, Prof. Franck IUTZELER, Prof. Michel DE LARA, Dr. Delphine BRESCH-PIETRI, Dr. Welington DE OLIVEIRA, Dr. Paul MALISANI, Dr. Jiamin ZHU.
+- <span style="font-size: 70%;"> [July 26th - August 1st, 2025] I present a boosting method to reduce scenario trees using Optimal Transport at [ICSP: Int. Conference on Stochastic Optimization](https://icsp2025.org/) in Paris.</span><br>
+- <span style="font-size: 70%;"> [July 18th-25th, 2025] I present robust strategies for Energy Management Systems including RL and Distributional Robust Optimization in multistage at [ICCOPT: Int. Conference on Convex Optimization](https://events.usc.edu/esvp/iccopt2025/) in Los Angeles.</span><br>
+- <span style="font-size: 70%;"> [May 19th-31st, 2025] Working on optimisation and Optimal Transport projects at the [Optimal Transport Summer School](https://cimpa.este.ovh/) with Gabriel Peyré, Filippo Santobrogio, Guillaume Carlier, Jalal Fadili, Emilie Chouzenoux and others.</span><br>
 - <span style="font-size: 70%;">[November 19th-20th, 2024] Presentation during the [PGMO days](https://www.fondation-hadamard.fr/fr/programmes/les-programmes-thematiques/home/pgmo-days/), the annual conference of the Optimization, OR, and Data Science program of the FMJH [Fondation Mathématiques Jacques Hadamard](https://smf.emath.fr/evenements-smf/pgmo-days-2023). I present my lattest works about a new approach for Scenario Tree Reduction via Wasserstein Barycenters.</span><br>
 - <span style="font-size: 70%;">[July 21st-28th, 2024] I take part in the  [25th International Symposium on Mathematical Programming](https://ismp2024.gerad.ca/) in Montreal, Canada, where I present my work on a new approach to efficiently compute the Wasserstein Barycenter for discrete probability measures (balanced and unbalanced and with extending settings). I present in the session [Advances in Variational Analysis and Nonsmooth Optimization](https://ismp2024.gerad.ca/schedule/TA/112).</span><br>
 - <span style="font-size: 70%;">[April, 2024] I visit the Centre of Applied Mathematics in Sophia Antipolis to work closely with [Welington de Oliveira](https://www.oliveira.mat.br/) and Gregorio Martinez about non-convex and non-smooth extensions within the Douglas-Rachford method framework.</span> <br>
