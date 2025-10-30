@@ -147,13 +147,14 @@ All of my research is supported by <a href="https://github.com/dan-mim">open-sou
   </tr>
 </table>
 
-## PhD Mid-term Report
+## PhD Report
 <table>
   <tr>
     <td>
-      <b>Mimouni, D.(2023). Scenario Tree Reduction and Operator Splitting Method for Stochastic Optimization of Energy Systems.</b><br><br>
-      This report corresponds to the research I have carried on up to April 2024. I also presented my research at the industrial annual meeting for PhD students in IFP énergie nouvelles.<br><br>
-      Links: <a href="/files/MIMOUNI_Daniel_R11.pdf">Report</a> / <a href="/files/mid-phd_Mimouni_Daniel_R11.pdf">Slides</a>.
+      <b>Mimouni, D.(2023). Multistage Stochastic Optimization: From Optimal Transport-Based Scenario Tree Reduction to Robust Optimization.</b><br><br>
+       I defend my thesis at [Mines Paris (VI)](https://maps.app.goo.gl/xtDMMv5oLg4CBeJTA). Jury: Prof. Alois PICHLER, Prof. Franck IUTZELER, Prof. Michel DE LARA, Dr. Delphine BRESCH-PIETRI, Dr. Welington DE OLIVEIRA, Dr. Paul MALISANI, Dr. Jiamin ZHU. 
+       The official arxiv in franch and in english is [here](https://theses.fr/s356212).
+      Links: <a href="/files/manuscrit_de_these.pdf">Report</a> / <a href="/files/presentation_these.pdf">Slides</a> / <a href="/files/vulgarisation_these.pdf">Outreach booklet in french</a>.
     </td>
   </tr>
 </table>
