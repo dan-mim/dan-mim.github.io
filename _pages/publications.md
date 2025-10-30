@@ -152,9 +152,9 @@ All of my research is supported by <a href="https://github.com/dan-mim">open-sou
   <tr>
     <td>
       <b>Mimouni, D.(2023). Multistage Stochastic Optimization: From Optimal Transport-Based Scenario Tree Reduction to Robust Optimization.</b><br><br>
-       I defend my thesis at [Mines Paris (VI)](https://maps.app.goo.gl/xtDMMv5oLg4CBeJTA). Jury: Prof. Alois PICHLER, Prof. Franck IUTZELER, Prof. Michel DE LARA, Dr. Delphine BRESCH-PIETRI, Dr. Welington DE OLIVEIRA, Dr. Paul MALISANI, Dr. Jiamin ZHU. 
-       The official arxiv in franch and in english is [here](https://theses.fr/s356212).
-      Links: <a href="/files/manuscrit_de_these.pdf">Report</a> / <a href="/files/presentation_these.pdf">Slides</a> / <a href="/files/vulgarisation_these.pdf">Outreach booklet in french</a>.
+       I defend my thesis at <a href="https://maps.app.goo.gl/xtDMMv5oLg4CBeJTA">Mines Paris (VI)</a>. Jury: Prof. Alois PICHLER, Prof. Franck IUTZELER, Prof. Michel DE LARA, Dr. Delphine BRESCH-PIETRI, Dr. Welington DE OLIVEIRA, Dr. Paul MALISANI, Dr. Jiamin ZHU. <br><br>
+       The official arxiv in french and in english is <a href="https://theses.fr/s356212">here</a>.<br><br>
+      Links: <a href="/files/manuscrit_de_these.pdf">Report</a> / <a href="/files/presentation_these.pdf">Slides</a> / <a href="/files/vulgarisation_these.pdf">Outreach booklet in french</a> / Presentation (video) on demand.
       <img src="/files/20251024_180841.jpg" alt="plot" width="700"/>
     </td>
   </tr>
