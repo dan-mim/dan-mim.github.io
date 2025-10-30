@@ -155,6 +155,7 @@ All of my research is supported by <a href="https://github.com/dan-mim">open-sou
        I defend my thesis at [Mines Paris (VI)](https://maps.app.goo.gl/xtDMMv5oLg4CBeJTA). Jury: Prof. Alois PICHLER, Prof. Franck IUTZELER, Prof. Michel DE LARA, Dr. Delphine BRESCH-PIETRI, Dr. Welington DE OLIVEIRA, Dr. Paul MALISANI, Dr. Jiamin ZHU. 
        The official arxiv in franch and in english is [here](https://theses.fr/s356212).
       Links: <a href="/files/manuscrit_de_these.pdf">Report</a> / <a href="/files/presentation_these.pdf">Slides</a> / <a href="/files/vulgarisation_these.pdf">Outreach booklet in french</a>.
+      <img src="/files/20251024_180841.jpg" alt="plot" width="700"/>
     </td>
   </tr>
 </table>
