@@ -71,7 +71,7 @@ All of my research is supported by <a href="https://github.com/dan-mim">open-sou
       <b>Currently working on Reinforcement Learning (RL) and Distributionally Robust Optimization (DRO) to tackle multi-stage stochastic optimization problems.</b><br><br>
       This work will be submitted to IEEE Transaction journal. <br><br>
       The goal of this work is to develop a concrete solution for an Energy Management System requiring multistage decision-making. This project will soon be integrated into IFPEN's EMS-lab@ifpen solver.<br><br>
-      Link: <a href="https://github.com/dan-mim/EMS-RL-DRO">github</a>.
+      Link: <a href="/files/article_IEEE_EMS.pdf">paper PDF</a> / <a href="https://github.com/dan-mim/EMS-RL-DRO">github</a>.
       <a href="https://github.com/dan-mim/EMS-RL-DRO">
         <img src="/files/system.PNG" alt="plot" width="500"/>
       </a>
