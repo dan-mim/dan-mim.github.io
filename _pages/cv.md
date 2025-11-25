@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="/files/academic_resume.pdf">My academic resume</a>.
+<a href="/files/academic_resume.pdf">My CV</a>.
 
 Contact: `daniel dot mimouni1 at gmail.com`
 
@@ -170,4 +170,5 @@ You can also look into my <a href="https://www.linkedin.com/in/daniel-mimouni-74
     </td>
   </tr>
 </table> -->
+
 
