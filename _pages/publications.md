@@ -88,7 +88,7 @@ All of my research is supported by <a href="https://github.com/dan-mim">open-sou
     <td>
       <b>Mimouni, D., Malisani, P., Zhu, J., & de Oliveira, W.: How Optimal Transport can make multi-stage decisions sharper : Boosting scenario tree algorithms (2025). </b><br><br>
       Presentation during the <a href="https://icsp2025.org/">XIIth Conference on Stochastic Programming (ICSP 2025)</a><br><br>
-      Link: <a href="">slides to come</a> / Presentation (video) on demand.
+      Link: <a href="/files/icsp.pdf">slides</a> / Presentation (video) on demand.
     </td>
   </tr>
 
@@ -96,7 +96,7 @@ All of my research is supported by <a href="https://github.com/dan-mim">open-sou
     <td>
       <b>Mimouni, D., Malisani, P., Zhu, J., & de Oliveira, W. (July 2025). Optimization framework to solve Energy Management System problems: Reinforcement Learning vs Stochastic Programming.</b><br><br>
       Presentation during the <a href="https://sites.google.com/view/iccopt2025/home">2025 International Conference on Continuous Optimization (ICCOPT 2025)</a><br><br>
-      Link: <a href="">slides to come</a> / Presentation (video) on demand.
+      Link: <a href="/files/iccopt.pdf">slides</a> / Presentation (video) on demand.
     </td>
   </tr>
 
